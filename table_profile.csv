@@ -1,0 +1,9 @@
+table_name,row_count,duplicate_rows,null_cells
+leads,3000,0,0
+accounts,700,0,0
+opportunities,850,0,982
+opportunity_stage_history,3472,0,0
+sales_activities,4293,0,0
+sales_reps,8,0,0
+sales_targets,96,0,0
+customers,238,0,0

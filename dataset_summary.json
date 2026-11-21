@@ -1,0 +1,12 @@
+{
+  "raw_csv_files": 8,
+  "lead_records": 3000,
+  "account_records": 700,
+  "opportunities": 850,
+  "stage_history_rows": 3472,
+  "activity_rows": 4293,
+  "closed_won_opportunities": 238,
+  "closed_lost_opportunities": 240,
+  "open_opportunities": 372,
+  "synthetic_data": true
+}

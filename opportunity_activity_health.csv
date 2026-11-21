@@ -1,0 +1,851 @@
+opportunity_id,account_id,rep_id,created_date,current_stage,acv,probability,close_date,outcome,lost_reason,opportunity_type,industry,company_size,billing_country,rep_name,sales_team,weighted_pipeline,is_open,is_won,is_lost,last_activity_date
+O00001,A0514,R002,2025-03-04,Closed Lost,15005,0.0,2025-06-28,Closed Lost,No decision,New Business,Retail,SMB,India,Kabir Mehta,SMB,0.0,0,0,1,2025-05-12
+O00002,A0235,R003,2025-10-10,Closed Won,33828,1.0,2025-11-21,Closed Won,,New Business,Education,Mid-Market,United States,Neha Iyer,Mid-Market,33828.0,0,1,0,2025-12-31
+O00003,A0291,R001,2025-10-02,Closed Won,16060,1.0,2025-12-02,Closed Won,,New Business,IT Services,SMB,United States,Aditi Rao,Enterprise,16060.0,0,1,0,2025-12-31
+O00004,A0539,R004,2025-07-03,Demo,71441,0.4,,Open,,Expansion,Healthcare,Mid-Market,India,Rohan Das,SMB,28576.4,1,0,0,2025-11-29
+O00005,A0033,R001,2025-05-20,Closed Won,10799,1.0,2025-08-18,Closed Won,,Expansion,Healthcare,SMB,Singapore,Aditi Rao,Enterprise,10799.0,0,1,0,2025-10-05
+O00006,A0464,R002,2025-04-27,Closed Lost,10799,0.0,2025-08-20,Closed Lost,Price,New Business,Healthcare,SMB,Singapore,Kabir Mehta,SMB,0.0,0,0,1,2025-08-30
+O00007,A0253,R006,2025-01-16,Negotiation,193353,0.8,,Open,,Expansion,Retail,Enterprise,United States,Arjun Nair,Enterprise,154682.4,1,0,0,2025-01-16
+O00008,A0199,R006,2025-08-15,Qualification,16949,0.1,,Open,,New Business,Education,SMB,India,Arjun Nair,Enterprise,1694.9,1,0,0,2025-11-22
+O00009,A0008,R007,2025-05-29,Closed Won,9714,1.0,2025-09-15,Closed Won,,Expansion,Retail,SMB,United Kingdom,Ishita Sen,SMB,9714.0,0,1,0,2025-09-30
+O00010,A0502,R001,2025-11-03,Demo,15318,0.4,,Open,,New Business,Financial Services,SMB,United Kingdom,Aditi Rao,Enterprise,6127.200000000001,1,0,0,2025-12-31
+O00011,A0131,R001,2025-02-07,Closed Won,29223,1.0,2025-04-06,Closed Won,,New Business,Education,Mid-Market,Singapore,Aditi Rao,Enterprise,29223.0,0,1,0,2025-07-01
+O00012,A0637,R005,2025-06-18,Closed Won,9731,1.0,2025-07-17,Closed Won,,Expansion,Financial Services,SMB,Singapore,Maya Shah,Mid-Market,9731.0,0,1,0,2025-09-08
+O00013,A0130,R002,2025-12-02,Closed Won,40141,1.0,2025-12-31,Closed Won,,Expansion,Manufacturing,Mid-Market,United Kingdom,Kabir Mehta,SMB,40141.0,0,1,0,2025-12-31
+O00014,A0466,R005,2025-11-18,Closed Won,15218,1.0,2025-12-12,Closed Won,,New Business,Healthcare,Mid-Market,Singapore,Maya Shah,Mid-Market,15218.0,0,1,0,2025-12-31
+O00015,A0088,R004,2025-01-12,Closed Lost,5521,0.0,2025-05-03,Closed Lost,Competitor,Expansion,Healthcare,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-06-03
+O00016,A0573,R001,2025-04-27,Closed Lost,9317,0.0,2025-07-25,Closed Lost,Price,New Business,Financial Services,SMB,India,Aditi Rao,Enterprise,0.0,0,0,1,2025-05-21
+O00017,A0100,R004,2025-12-05,Negotiation,7607,0.8,,Open,,Expansion,Manufacturing,SMB,Singapore,Rohan Das,SMB,6085.6,1,0,0,2025-12-31
+O00018,A0257,R004,2025-07-26,Qualification,13822,0.1,,Open,,Expansion,Healthcare,SMB,United States,Rohan Das,SMB,1382.2,1,0,0,2025-12-21
+O00019,A0566,R006,2025-06-26,Proposal,7974,0.6,,Open,,Expansion,Education,SMB,United Kingdom,Arjun Nair,Enterprise,4784.4,1,0,0,2025-08-22
+O00020,A0022,R005,2025-04-06,Proposal,6355,0.6,,Open,,Expansion,Financial Services,SMB,United States,Maya Shah,Mid-Market,3813.0,1,0,0,2025-08-13
+O00021,A0618,R007,2025-10-18,Proposal,183721,0.6,,Open,,Expansion,Retail,Enterprise,United Kingdom,Ishita Sen,SMB,110232.59999999999,1,0,0,2025-12-10
+O00022,A0157,R007,2025-01-08,Closed Lost,10840,0.0,2025-04-26,Closed Lost,Price,Expansion,Retail,SMB,United Kingdom,Ishita Sen,SMB,0.0,0,0,1,2025-03-16
+O00023,A0340,R007,2025-08-24,Closed Won,12370,1.0,2025-11-09,Closed Won,,Expansion,Manufacturing,SMB,India,Ishita Sen,SMB,12370.0,0,1,0,2025-12-31
+O00024,A0381,R008,2025-01-23,Closed Won,6320,1.0,2025-03-24,Closed Won,,New Business,Healthcare,SMB,Singapore,Dev Malhotra,Mid-Market,6320.0,0,1,0,2025-06-20
+O00025,A0455,R007,2025-02-17,Discovery,9392,0.2,,Open,,New Business,IT Services,SMB,India,Ishita Sen,SMB,1878.4,1,0,0,2025-06-09
+O00026,A0307,R001,2025-03-13,Closed Lost,12614,0.0,2025-06-17,Closed Lost,Price,Expansion,Healthcare,SMB,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-08-08
+O00027,A0200,R008,2025-07-24,Qualification,7148,0.1,,Open,,Expansion,Retail,SMB,India,Dev Malhotra,Mid-Market,714.8000000000001,1,0,0,2025-09-01
+O00028,A0303,R005,2025-06-04,Closed Lost,42631,0.0,2025-10-04,Closed Lost,Missing feature,New Business,Manufacturing,Mid-Market,India,Maya Shah,Mid-Market,0.0,0,0,1,2025-10-25
+O00029,A0331,R001,2025-09-30,Closed Lost,9157,0.0,2025-11-07,Closed Lost,No decision,New Business,Education,SMB,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-12-31
+O00030,A0257,R003,2025-04-19,Closed Lost,10523,0.0,2025-05-04,Closed Lost,Price,Expansion,Healthcare,SMB,United States,Neha Iyer,Mid-Market,0.0,0,0,1,2025-07-21
+O00031,A0082,R008,2025-03-06,Closed Lost,72465,0.0,2025-06-21,Closed Lost,Competitor,Expansion,IT Services,Enterprise,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-05-30
+O00032,A0253,R007,2025-11-04,Closed Won,218634,1.0,2025-12-31,Closed Won,,Expansion,Retail,Enterprise,United States,Ishita Sen,SMB,218634.0,0,1,0,2025-12-31
+O00033,A0323,R008,2025-05-25,Demo,35782,0.4,,Open,,New Business,Manufacturing,Mid-Market,Singapore,Dev Malhotra,Mid-Market,14312.800000000001,1,0,0,2025-10-21
+O00034,A0394,R003,2025-09-13,Discovery,7455,0.2,,Open,,New Business,Financial Services,SMB,United States,Neha Iyer,Mid-Market,1491.0,1,0,0,2025-12-15
+O00035,A0285,R003,2025-07-08,Closed Lost,52126,0.0,2025-08-22,Closed Lost,No decision,New Business,Financial Services,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,0.0,0,0,1,2025-11-10
+O00036,A0673,R003,2025-11-14,Demo,20783,0.4,,Open,,Expansion,Healthcare,Mid-Market,United States,Neha Iyer,Mid-Market,8313.2,1,0,0,2025-12-31
+O00037,A0368,R003,2025-04-24,Discovery,13182,0.2,,Open,,New Business,IT Services,SMB,India,Neha Iyer,Mid-Market,2636.4,1,0,0,2025-09-20
+O00038,A0538,R007,2025-04-26,Closed Won,5000,1.0,2025-05-18,Closed Won,,New Business,Retail,SMB,United Kingdom,Ishita Sen,SMB,5000.0,0,1,0,2025-09-09
+O00039,A0620,R007,2025-07-20,Closed Won,19803,1.0,2025-11-05,Closed Won,,New Business,Manufacturing,Mid-Market,United Kingdom,Ishita Sen,SMB,19803.0,0,1,0,2025-12-01
+O00040,A0454,R003,2025-02-20,Closed Lost,39334,0.0,2025-03-27,Closed Lost,Timing,New Business,Healthcare,Mid-Market,Singapore,Neha Iyer,Mid-Market,0.0,0,0,1,2025-05-01
+O00041,A0135,R001,2025-06-04,Closed Won,50190,1.0,2025-08-22,Closed Won,,New Business,IT Services,Mid-Market,United States,Aditi Rao,Enterprise,50190.0,0,1,0,2025-10-18
+O00042,A0123,R006,2025-05-04,Negotiation,12962,0.8,,Open,,Expansion,Manufacturing,SMB,United States,Arjun Nair,Enterprise,10369.6,1,0,0,2025-09-02
+O00043,A0619,R004,2025-09-01,Proposal,90182,0.6,,Open,,Expansion,Financial Services,Enterprise,Singapore,Rohan Das,SMB,54109.2,1,0,0,2025-12-31
+O00044,A0227,R003,2025-07-01,Negotiation,10479,0.8,,Open,,New Business,Retail,SMB,India,Neha Iyer,Mid-Market,8383.2,1,0,0,2025-10-27
+O00045,A0237,R003,2025-09-14,Closed Won,6169,1.0,2025-12-11,Closed Won,,Expansion,Education,SMB,India,Neha Iyer,Mid-Market,6169.0,0,1,0,2025-12-27
+O00046,A0008,R003,2025-03-19,Closed Won,8679,1.0,2025-04-20,Closed Won,,New Business,Retail,SMB,United Kingdom,Neha Iyer,Mid-Market,8679.0,0,1,0,2025-07-24
+O00047,A0109,R004,2025-11-26,Closed Won,9753,1.0,2025-12-31,Closed Won,,New Business,Education,SMB,India,Rohan Das,SMB,9753.0,0,1,0,2025-12-31
+O00048,A0502,R008,2025-02-13,Qualification,19309,0.1,,Open,,New Business,Financial Services,SMB,United Kingdom,Dev Malhotra,Mid-Market,1930.9,1,0,0,2025-04-28
+O00049,A0189,R006,2025-08-09,Closed Won,110886,1.0,2025-09-16,Closed Won,,New Business,Retail,Enterprise,Singapore,Arjun Nair,Enterprise,110886.0,0,1,0,2025-12-28
+O00050,A0349,R007,2025-05-24,Qualification,5427,0.1,,Open,,Expansion,Manufacturing,SMB,United States,Ishita Sen,SMB,542.7,1,0,0,2025-09-12
+O00051,A0363,R005,2025-01-02,Demo,13884,0.4,,Open,,New Business,Education,SMB,India,Maya Shah,Mid-Market,5553.6,1,0,0,2025-02-04
+O00052,A0233,R001,2025-05-27,Discovery,79885,0.2,,Open,,New Business,Financial Services,Enterprise,United States,Aditi Rao,Enterprise,15977.0,1,0,0,2025-09-01
+O00053,A0140,R004,2025-02-12,Demo,70053,0.4,,Open,,Expansion,Financial Services,Enterprise,India,Rohan Das,SMB,28021.2,1,0,0,2025-04-08
+O00054,A0477,R002,2025-05-26,Closed Lost,47407,0.0,2025-07-17,Closed Lost,Missing feature,Expansion,IT Services,Mid-Market,India,Kabir Mehta,SMB,0.0,0,0,1,2025-10-23
+O00055,A0251,R008,2025-01-07,Qualification,57252,0.1,,Open,,Expansion,Retail,Mid-Market,Singapore,Dev Malhotra,Mid-Market,5725.200000000001,1,0,0,2025-06-06
+O00056,A0362,R004,2025-11-11,Qualification,18246,0.1,,Open,,New Business,IT Services,SMB,United States,Rohan Das,SMB,1824.6000000000001,1,0,0,2025-12-31
+O00057,A0687,R008,2025-09-13,Closed Lost,24676,0.0,2025-11-20,Closed Lost,Missing feature,Expansion,Retail,Mid-Market,Singapore,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00058,A0060,R006,2025-04-01,Demo,82659,0.4,,Open,,Expansion,Retail,Enterprise,India,Arjun Nair,Enterprise,33063.6,1,0,0,2025-07-04
+O00059,A0069,R003,2025-01-14,Qualification,13929,0.1,,Open,,New Business,Education,SMB,United States,Neha Iyer,Mid-Market,1392.9,1,0,0,2025-05-20
+O00060,A0664,R006,2025-09-02,Closed Lost,55841,0.0,2025-11-08,Closed Lost,Price,New Business,Manufacturing,Mid-Market,United States,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-31
+O00061,A0160,R003,2025-05-06,Closed Won,29017,1.0,2025-06-09,Closed Won,,Expansion,Education,Mid-Market,Singapore,Neha Iyer,Mid-Market,29017.0,0,1,0,2025-09-25
+O00062,A0490,R008,2025-01-13,Closed Lost,33114,0.0,2025-05-13,Closed Lost,Missing feature,Expansion,Manufacturing,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-04-29
+O00063,A0210,R006,2025-05-06,Closed Won,7294,1.0,2025-06-20,Closed Won,,Expansion,Healthcare,SMB,Singapore,Arjun Nair,Enterprise,7294.0,0,1,0,2025-07-20
+O00064,A0127,R006,2025-10-27,Closed Won,7004,1.0,2025-12-03,Closed Won,,Expansion,Retail,SMB,India,Arjun Nair,Enterprise,7004.0,0,1,0,2025-12-31
+O00065,A0652,R005,2025-11-28,Closed Lost,17297,0.0,2025-12-31,Closed Lost,No decision,Expansion,Manufacturing,SMB,Singapore,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-31
+O00066,A0086,R002,2025-05-27,Demo,22091,0.4,,Open,,New Business,Retail,SMB,United Kingdom,Kabir Mehta,SMB,8836.4,1,0,0,2025-07-07
+O00067,A0023,R001,2025-01-15,Discovery,11617,0.2,,Open,,Expansion,Retail,SMB,Singapore,Aditi Rao,Enterprise,2323.4,1,0,0,2025-03-04
+O00068,A0252,R003,2025-05-05,Qualification,56549,0.1,,Open,,New Business,IT Services,Mid-Market,United States,Neha Iyer,Mid-Market,5654.900000000001,1,0,0,2025-09-25
+O00069,A0266,R007,2025-06-26,Demo,111788,0.4,,Open,,Expansion,Manufacturing,Enterprise,Singapore,Ishita Sen,SMB,44715.200000000004,1,0,0,2025-10-09
+O00070,A0390,R004,2025-03-06,Proposal,8976,0.6,,Open,,Expansion,Financial Services,SMB,United States,Rohan Das,SMB,5385.599999999999,1,0,0,2025-07-16
+O00071,A0106,R008,2025-12-04,Proposal,111776,0.6,,Open,,Expansion,Education,Enterprise,United Kingdom,Dev Malhotra,Mid-Market,67065.59999999999,1,0,0,2025-12-31
+O00072,A0423,R006,2025-10-19,Closed Won,71925,1.0,2025-12-21,Closed Won,,New Business,Healthcare,Mid-Market,United Kingdom,Arjun Nair,Enterprise,71925.0,0,1,0,2025-12-31
+O00073,A0537,R003,2025-01-22,Closed Won,93480,1.0,2025-03-18,Closed Won,,New Business,Retail,Enterprise,Singapore,Neha Iyer,Mid-Market,93480.0,0,1,0,2025-06-08
+O00074,A0398,R006,2025-03-25,Discovery,24264,0.2,,Open,,New Business,Education,SMB,Singapore,Arjun Nair,Enterprise,4852.8,1,0,0,2025-08-05
+O00075,A0442,R008,2025-04-23,Discovery,5000,0.2,,Open,,New Business,Financial Services,SMB,India,Dev Malhotra,Mid-Market,1000.0,1,0,0,2025-08-07
+O00076,A0500,R003,2025-05-24,Closed Lost,17370,0.0,2025-07-22,Closed Lost,No decision,New Business,Financial Services,SMB,United Kingdom,Neha Iyer,Mid-Market,0.0,0,0,1,2025-09-11
+O00077,A0501,R006,2025-07-20,Closed Lost,37438,0.0,2025-11-08,Closed Lost,Missing feature,Expansion,Retail,Mid-Market,United States,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-13
+O00078,A0421,R005,2025-09-28,Closed Lost,10489,0.0,2025-11-19,Closed Lost,Timing,Expansion,Healthcare,SMB,India,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-31
+O00079,A0164,R003,2025-05-23,Demo,12505,0.4,,Open,,Expansion,Healthcare,SMB,United Kingdom,Neha Iyer,Mid-Market,5002.0,1,0,0,2025-10-10
+O00080,A0124,R001,2025-06-07,Closed Lost,14718,0.0,2025-07-09,Closed Lost,Competitor,New Business,Education,Mid-Market,India,Aditi Rao,Enterprise,0.0,0,0,1,2025-11-02
+O00081,A0424,R003,2025-10-18,Closed Lost,10870,0.0,2025-12-21,Closed Lost,Timing,Expansion,Healthcare,SMB,India,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00082,A0113,R003,2025-01-28,Proposal,14092,0.6,,Open,,Expansion,Education,SMB,Singapore,Neha Iyer,Mid-Market,8455.199999999999,1,0,0,2025-06-27
+O00083,A0428,R008,2025-04-02,Discovery,70005,0.2,,Open,,Expansion,IT Services,Mid-Market,Singapore,Dev Malhotra,Mid-Market,14001.0,1,0,0,2025-07-24
+O00084,A0023,R008,2025-10-27,Discovery,9503,0.2,,Open,,Expansion,Retail,SMB,Singapore,Dev Malhotra,Mid-Market,1900.6000000000001,1,0,0,2025-12-31
+O00085,A0142,R002,2025-03-09,Discovery,66026,0.2,,Open,,Expansion,Financial Services,Enterprise,Singapore,Kabir Mehta,SMB,13205.2,1,0,0,2025-07-11
+O00086,A0005,R003,2025-03-17,Discovery,9574,0.2,,Open,,Expansion,Manufacturing,SMB,India,Neha Iyer,Mid-Market,1914.8000000000002,1,0,0,2025-08-12
+O00087,A0473,R001,2025-05-27,Negotiation,54350,0.8,,Open,,Expansion,Manufacturing,Mid-Market,United Kingdom,Aditi Rao,Enterprise,43480.0,1,0,0,2025-07-22
+O00088,A0141,R006,2025-03-01,Discovery,13913,0.2,,Open,,New Business,Financial Services,SMB,United Kingdom,Arjun Nair,Enterprise,2782.6000000000004,1,0,0,2025-06-03
+O00089,A0470,R001,2025-04-15,Closed Won,9454,1.0,2025-07-22,Closed Won,,New Business,Education,SMB,United States,Aditi Rao,Enterprise,9454.0,0,1,0,2025-08-05
+O00090,A0096,R005,2025-08-20,Proposal,119683,0.6,,Open,,New Business,Manufacturing,Enterprise,India,Maya Shah,Mid-Market,71809.8,1,0,0,2025-12-31
+O00091,A0249,R004,2025-08-16,Negotiation,37607,0.8,,Open,,New Business,Education,Mid-Market,India,Rohan Das,SMB,30085.600000000002,1,0,0,2025-12-20
+O00092,A0582,R005,2025-06-12,Closed Won,55668,1.0,2025-08-21,Closed Won,,Expansion,Retail,Mid-Market,Singapore,Maya Shah,Mid-Market,55668.0,0,1,0,2025-11-09
+O00093,A0410,R008,2025-01-07,Closed Lost,26248,0.0,2025-03-15,Closed Lost,No decision,New Business,Healthcare,Mid-Market,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-06-02
+O00094,A0533,R007,2025-04-13,Closed Won,81976,1.0,2025-05-11,Closed Won,,New Business,Retail,Enterprise,United States,Ishita Sen,SMB,81976.0,0,1,0,2025-06-08
+O00095,A0156,R001,2025-01-26,Proposal,30176,0.6,,Open,,Expansion,IT Services,Mid-Market,United States,Aditi Rao,Enterprise,18105.6,1,0,0,2025-05-31
+O00096,A0516,R005,2025-03-06,Closed Lost,18633,0.0,2025-04-22,Closed Lost,Timing,New Business,Financial Services,Mid-Market,Singapore,Maya Shah,Mid-Market,0.0,0,0,1,2025-07-19
+O00097,A0210,R004,2025-08-05,Demo,13710,0.4,,Open,,Expansion,Healthcare,SMB,Singapore,Rohan Das,SMB,5484.0,1,0,0,2025-11-21
+O00098,A0024,R003,2025-10-04,Demo,13495,0.4,,Open,,New Business,Retail,SMB,United Kingdom,Neha Iyer,Mid-Market,5398.0,1,0,0,2025-12-31
+O00099,A0212,R007,2025-01-05,Demo,12027,0.4,,Open,,Expansion,Education,SMB,India,Ishita Sen,SMB,4810.8,1,0,0,2025-06-03
+O00100,A0622,R005,2025-08-11,Demo,85482,0.4,,Open,,New Business,Education,Enterprise,India,Maya Shah,Mid-Market,34192.8,1,0,0,2025-12-31
+O00101,A0576,R006,2025-08-03,Closed Won,50247,1.0,2025-08-29,Closed Won,,New Business,Retail,Enterprise,Singapore,Arjun Nair,Enterprise,50247.0,0,1,0,2025-11-23
+O00102,A0193,R003,2025-05-14,Proposal,9930,0.6,,Open,,New Business,Financial Services,SMB,India,Neha Iyer,Mid-Market,5958.0,1,0,0,2025-10-05
+O00103,A0578,R004,2025-07-11,Closed Won,30854,1.0,2025-10-22,Closed Won,,New Business,IT Services,Mid-Market,United States,Rohan Das,SMB,30854.0,0,1,0,2025-12-08
+O00104,A0080,R002,2025-06-19,Closed Lost,25090,0.0,2025-07-18,Closed Lost,Missing feature,Expansion,Retail,Mid-Market,United Kingdom,Kabir Mehta,SMB,0.0,0,0,1,2025-10-14
+O00105,A0544,R001,2025-10-04,Discovery,11159,0.2,,Open,,New Business,Healthcare,SMB,Singapore,Aditi Rao,Enterprise,2231.8,1,0,0,2025-12-31
+O00106,A0293,R005,2025-11-23,Closed Won,43178,1.0,2025-12-31,Closed Won,,New Business,Retail,Mid-Market,Singapore,Maya Shah,Mid-Market,43178.0,0,1,0,2025-12-31
+O00107,A0279,R004,2025-02-02,Closed Lost,221996,0.0,2025-04-07,Closed Lost,Timing,Expansion,Financial Services,Enterprise,United Kingdom,Rohan Das,SMB,0.0,0,0,1,2025-05-07
+O00108,A0078,R004,2025-06-19,Closed Won,102764,1.0,2025-09-28,Closed Won,,New Business,Healthcare,Enterprise,United States,Rohan Das,SMB,102764.0,0,1,0,2025-10-03
+O00109,A0282,R004,2025-09-02,Closed Lost,13474,0.0,2025-10-27,Closed Lost,Competitor,New Business,Healthcare,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00110,A0202,R001,2025-11-16,Qualification,11604,0.1,,Open,,Expansion,IT Services,SMB,Singapore,Aditi Rao,Enterprise,1160.4,1,0,0,2025-12-31
+O00111,A0529,R006,2025-07-15,Closed Lost,15181,0.0,2025-08-13,Closed Lost,Missing feature,Expansion,Financial Services,Mid-Market,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-10-09
+O00112,A0563,R005,2025-01-19,Closed Won,93873,1.0,2025-04-26,Closed Won,,New Business,Education,Enterprise,India,Maya Shah,Mid-Market,93873.0,0,1,0,2025-05-20
+O00113,A0159,R008,2025-12-03,Closed Won,12329,1.0,2025-12-31,Closed Won,,New Business,Healthcare,SMB,India,Dev Malhotra,Mid-Market,12329.0,0,1,0,2025-12-31
+O00114,A0496,R002,2025-08-12,Closed Won,36356,1.0,2025-10-17,Closed Won,,Expansion,Education,SMB,India,Kabir Mehta,SMB,36356.0,0,1,0,2025-10-25
+O00115,A0435,R007,2025-02-27,Closed Won,11004,1.0,2025-05-31,Closed Won,,Expansion,Manufacturing,SMB,Singapore,Ishita Sen,SMB,11004.0,0,1,0,2025-07-24
+O00116,A0395,R008,2025-07-02,Proposal,41232,0.6,,Open,,New Business,Manufacturing,Mid-Market,India,Dev Malhotra,Mid-Market,24739.2,1,0,0,2025-11-26
+O00117,A0680,R004,2025-03-23,Closed Lost,35442,0.0,2025-06-06,Closed Lost,Price,Expansion,Financial Services,Mid-Market,United States,Rohan Das,SMB,0.0,0,0,1,2025-06-11
+O00118,A0029,R006,2025-10-02,Closed Won,21276,1.0,2025-11-15,Closed Won,,Expansion,Manufacturing,Mid-Market,Singapore,Arjun Nair,Enterprise,21276.0,0,1,0,2025-12-31
+O00119,A0366,R002,2025-10-29,Closed Lost,20069,0.0,2025-12-24,Closed Lost,Missing feature,New Business,Healthcare,SMB,India,Kabir Mehta,SMB,0.0,0,0,1,2025-12-29
+O00120,A0559,R006,2025-05-07,Closed Lost,16831,0.0,2025-06-21,Closed Lost,No decision,New Business,Education,SMB,United States,Arjun Nair,Enterprise,0.0,0,0,1,2025-09-21
+O00121,A0290,R003,2025-07-18,Closed Lost,17130,0.0,2025-08-20,Closed Lost,Price,Expansion,IT Services,SMB,Singapore,Neha Iyer,Mid-Market,0.0,0,0,1,2025-11-21
+O00122,A0494,R006,2025-10-14,Closed Won,7969,1.0,2025-12-31,Closed Won,,Expansion,Education,SMB,India,Arjun Nair,Enterprise,7969.0,0,1,0,2025-12-31
+O00123,A0553,R005,2025-08-06,Closed Lost,22559,0.0,2025-10-22,Closed Lost,Timing,New Business,Financial Services,SMB,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-31
+O00124,A0005,R004,2025-01-04,Closed Won,6385,1.0,2025-03-30,Closed Won,,Expansion,Manufacturing,SMB,India,Rohan Das,SMB,6385.0,0,1,0,2025-04-16
+O00125,A0210,R003,2025-08-25,Closed Won,15626,1.0,2025-11-02,Closed Won,,Expansion,Healthcare,SMB,Singapore,Neha Iyer,Mid-Market,15626.0,0,1,0,2025-11-27
+O00126,A0607,R004,2025-05-11,Closed Lost,254571,0.0,2025-08-15,Closed Lost,Competitor,New Business,Retail,Enterprise,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-08-24
+O00127,A0169,R006,2025-03-06,Discovery,23052,0.2,,Open,,Expansion,Retail,Mid-Market,United Kingdom,Arjun Nair,Enterprise,4610.400000000001,1,0,0,2025-07-08
+O00128,A0437,R002,2025-05-03,Closed Won,9300,1.0,2025-07-31,Closed Won,,Expansion,IT Services,SMB,United States,Kabir Mehta,SMB,9300.0,0,1,0,2025-09-16
+O00129,A0196,R001,2025-10-02,Negotiation,37651,0.8,,Open,,New Business,Education,Mid-Market,United States,Aditi Rao,Enterprise,30120.800000000003,1,0,0,2025-12-31
+O00130,A0009,R008,2025-04-25,Proposal,75740,0.6,,Open,,New Business,Manufacturing,Enterprise,United Kingdom,Dev Malhotra,Mid-Market,45444.0,1,0,0,2025-09-04
+O00131,A0496,R008,2025-08-29,Closed Lost,5972,0.0,2025-12-17,Closed Lost,Price,New Business,Education,SMB,India,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00132,A0514,R005,2025-03-13,Closed Lost,12376,0.0,2025-06-24,Closed Lost,Missing feature,Expansion,Retail,SMB,India,Maya Shah,Mid-Market,0.0,0,0,1,2025-04-13
+O00133,A0204,R001,2025-11-05,Closed Won,22319,1.0,2025-12-31,Closed Won,,New Business,IT Services,Mid-Market,United Kingdom,Aditi Rao,Enterprise,22319.0,0,1,0,2025-12-31
+O00134,A0150,R002,2025-01-25,Proposal,14850,0.6,,Open,,Expansion,Financial Services,SMB,Singapore,Kabir Mehta,SMB,8910.0,1,0,0,2025-06-03
+O00135,A0145,R004,2025-06-01,Demo,7934,0.4,,Open,,New Business,Financial Services,SMB,Singapore,Rohan Das,SMB,3173.6000000000004,1,0,0,2025-10-09
+O00136,A0358,R008,2025-12-06,Closed Lost,72311,0.0,2025-12-31,Closed Lost,Price,Expansion,Healthcare,Mid-Market,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00137,A0124,R008,2025-02-25,Closed Lost,25306,0.0,2025-06-10,Closed Lost,Timing,Expansion,Education,Mid-Market,India,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-06-22
+O00138,A0359,R007,2025-07-26,Discovery,10381,0.2,,Open,,New Business,Manufacturing,SMB,India,Ishita Sen,SMB,2076.2000000000003,1,0,0,2025-12-10
+O00139,A0622,R007,2025-09-26,Discovery,136997,0.2,,Open,,Expansion,Education,Enterprise,India,Ishita Sen,SMB,27399.4,1,0,0,2025-12-06
+O00140,A0017,R001,2025-11-11,Qualification,6896,0.1,,Open,,Expansion,Healthcare,SMB,United Kingdom,Aditi Rao,Enterprise,689.6,1,0,0,2025-12-31
+O00141,A0142,R007,2025-07-06,Closed Won,105238,1.0,2025-09-22,Closed Won,,New Business,Financial Services,Enterprise,Singapore,Ishita Sen,SMB,105238.0,0,1,0,2025-11-27
+O00142,A0187,R003,2025-02-15,Proposal,64827,0.6,,Open,,New Business,IT Services,Mid-Market,United States,Neha Iyer,Mid-Market,38896.2,1,0,0,2025-06-26
+O00143,A0639,R001,2025-08-23,Closed Won,17464,1.0,2025-12-09,Closed Won,,Expansion,Financial Services,Mid-Market,United Kingdom,Aditi Rao,Enterprise,17464.0,0,1,0,2025-12-22
+O00144,A0490,R004,2025-08-04,Closed Won,39118,1.0,2025-09-07,Closed Won,,Expansion,Manufacturing,Mid-Market,United Kingdom,Rohan Das,SMB,39118.0,0,1,0,2025-11-09
+O00145,A0505,R002,2025-02-12,Discovery,13488,0.2,,Open,,New Business,IT Services,SMB,United Kingdom,Kabir Mehta,SMB,2697.6000000000004,1,0,0,2025-05-16
+O00146,A0045,R002,2025-07-23,Negotiation,135057,0.8,,Open,,Expansion,Financial Services,Enterprise,United Kingdom,Kabir Mehta,SMB,108045.6,1,0,0,2025-12-16
+O00147,A0010,R001,2025-09-16,Closed Won,6877,1.0,2025-11-26,Closed Won,,Expansion,IT Services,SMB,United Kingdom,Aditi Rao,Enterprise,6877.0,0,1,0,2025-12-30
+O00148,A0574,R004,2025-05-14,Negotiation,52440,0.8,,Open,,Expansion,IT Services,Enterprise,India,Rohan Das,SMB,41952.0,1,0,0,2025-10-09
+O00149,A0570,R004,2025-04-23,Closed Lost,15176,0.0,2025-07-11,Closed Lost,Timing,New Business,Education,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-09-19
+O00150,A0367,R008,2025-02-15,Qualification,41147,0.1,,Open,,Expansion,Financial Services,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,4114.7,1,0,0,2025-07-09
+O00151,A0484,R002,2025-05-10,Closed Lost,40295,0.0,2025-09-16,Closed Lost,Timing,Expansion,Healthcare,Mid-Market,United Kingdom,Kabir Mehta,SMB,0.0,0,0,1,2025-08-16
+O00152,A0649,R007,2025-05-26,Discovery,14024,0.2,,Open,,New Business,Financial Services,SMB,India,Ishita Sen,SMB,2804.8,1,0,0,2025-08-31
+O00153,A0024,R004,2025-02-16,Negotiation,8836,0.8,,Open,,New Business,Retail,SMB,United Kingdom,Rohan Das,SMB,7068.8,1,0,0,2025-07-12
+O00154,A0674,R007,2025-08-05,Closed Lost,13322,0.0,2025-11-27,Closed Lost,Timing,New Business,Healthcare,SMB,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-12-31
+O00155,A0318,R007,2025-10-03,Closed Lost,13691,0.0,2025-12-31,Closed Lost,Timing,New Business,Education,SMB,India,Ishita Sen,SMB,0.0,0,0,1,2025-12-31
+O00156,A0511,R003,2025-05-29,Closed Won,8701,1.0,2025-06-22,Closed Won,,New Business,Education,SMB,India,Neha Iyer,Mid-Market,8701.0,0,1,0,2025-10-02
+O00157,A0022,R007,2025-12-07,Closed Won,27785,1.0,2025-12-31,Closed Won,,Expansion,Financial Services,SMB,United States,Ishita Sen,SMB,27785.0,0,1,0,2025-12-31
+O00158,A0018,R006,2025-02-14,Demo,14851,0.4,,Open,,Expansion,Retail,SMB,India,Arjun Nair,Enterprise,5940.400000000001,1,0,0,2025-05-21
+O00159,A0287,R004,2025-03-15,Closed Lost,7020,0.0,2025-04-13,Closed Lost,Missing feature,New Business,Education,SMB,United States,Rohan Das,SMB,0.0,0,0,1,2025-07-16
+O00160,A0059,R004,2025-05-01,Closed Lost,16124,0.0,2025-07-08,Closed Lost,No decision,Expansion,IT Services,SMB,India,Rohan Das,SMB,0.0,0,0,1,2025-08-06
+O00161,A0613,R004,2025-01-07,Closed Won,7739,1.0,2025-02-03,Closed Won,,New Business,Manufacturing,SMB,Singapore,Rohan Das,SMB,7739.0,0,1,0,2025-03-04
+O00162,A0039,R001,2025-09-27,Demo,17100,0.4,,Open,,New Business,Healthcare,SMB,United States,Aditi Rao,Enterprise,6840.0,1,0,0,2025-12-31
+O00163,A0567,R008,2025-09-24,Closed Won,20211,1.0,2025-10-14,Closed Won,,Expansion,Financial Services,SMB,United States,Dev Malhotra,Mid-Market,20211.0,0,1,0,2025-12-31
+O00164,A0545,R001,2025-03-30,Closed Lost,8294,0.0,2025-05-13,Closed Lost,Competitor,Expansion,Education,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-06-26
+O00165,A0067,R006,2025-10-06,Demo,55536,0.4,,Open,,New Business,IT Services,Mid-Market,United States,Arjun Nair,Enterprise,22214.4,1,0,0,2025-12-31
+O00166,A0640,R001,2025-11-15,Qualification,114391,0.1,,Open,,Expansion,IT Services,Enterprise,India,Aditi Rao,Enterprise,11439.1,1,0,0,2025-12-31
+O00167,A0226,R008,2025-08-02,Closed Lost,17371,0.0,2025-09-17,Closed Lost,Missing feature,Expansion,Education,SMB,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-27
+O00168,A0175,R001,2025-09-20,Qualification,28175,0.1,,Open,,New Business,IT Services,SMB,United States,Aditi Rao,Enterprise,2817.5,1,0,0,2025-12-04
+O00169,A0691,R007,2025-09-24,Closed Won,10745,1.0,2025-12-26,Closed Won,,Expansion,IT Services,SMB,United Kingdom,Ishita Sen,SMB,10745.0,0,1,0,2025-12-31
+O00170,A0470,R005,2025-08-23,Proposal,8548,0.6,,Open,,New Business,Education,SMB,United States,Maya Shah,Mid-Market,5128.8,1,0,0,2025-11-09
+O00171,A0076,R002,2025-01-19,Proposal,24124,0.6,,Open,,New Business,Financial Services,Mid-Market,India,Kabir Mehta,SMB,14474.4,1,0,0,2025-06-14
+O00172,A0691,R004,2025-01-05,Demo,8312,0.4,,Open,,New Business,IT Services,SMB,United Kingdom,Rohan Das,SMB,3324.8,1,0,0,2025-06-02
+O00173,A0620,R008,2025-11-13,Closed Lost,34772,0.0,2025-12-15,Closed Lost,Price,New Business,Manufacturing,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00174,A0316,R003,2025-08-05,Demo,41973,0.4,,Open,,Expansion,Healthcare,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,16789.2,1,0,0,2025-12-31
+O00175,A0365,R001,2025-02-23,Closed Lost,40773,0.0,2025-05-11,Closed Lost,Missing feature,Expansion,Education,Mid-Market,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-07-11
+O00176,A0101,R008,2025-09-03,Closed Lost,52234,0.0,2025-12-31,Closed Lost,No decision,New Business,Healthcare,Mid-Market,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00177,A0419,R004,2025-08-10,Closed Lost,12070,0.0,2025-12-18,Closed Lost,Competitor,New Business,Healthcare,SMB,United Kingdom,Rohan Das,SMB,0.0,0,0,1,2025-08-23
+O00178,A0090,R007,2025-11-24,Closed Won,182722,1.0,2025-12-31,Closed Won,,New Business,IT Services,Enterprise,United States,Ishita Sen,SMB,182722.0,0,1,0,2025-12-31
+O00179,A0607,R003,2025-04-05,Closed Lost,84333,0.0,2025-06-14,Closed Lost,Missing feature,New Business,Retail,Enterprise,Singapore,Neha Iyer,Mid-Market,0.0,0,0,1,2025-07-06
+O00180,A0584,R004,2025-08-18,Qualification,323097,0.1,,Open,,Expansion,Manufacturing,Enterprise,India,Rohan Das,SMB,32309.7,1,0,0,2025-12-24
+O00181,A0333,R003,2025-04-06,Demo,47706,0.4,,Open,,New Business,Retail,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,19082.4,1,0,0,2025-06-01
+O00182,A0475,R005,2025-10-25,Proposal,8159,0.6,,Open,,New Business,Retail,SMB,United States,Maya Shah,Mid-Market,4895.4,1,0,0,2025-10-28
+O00183,A0139,R006,2025-06-24,Demo,7411,0.4,,Open,,New Business,Financial Services,SMB,United States,Arjun Nair,Enterprise,2964.4,1,0,0,2025-10-25
+O00184,A0445,R006,2025-11-05,Discovery,44729,0.2,,Open,,New Business,Education,Mid-Market,Singapore,Arjun Nair,Enterprise,8945.800000000001,1,0,0,2025-12-31
+O00185,A0563,R004,2025-10-13,Closed Lost,85911,0.0,2025-12-31,Closed Lost,Timing,New Business,Education,Enterprise,India,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00186,A0325,R001,2025-02-07,Negotiation,49641,0.8,,Open,,Expansion,IT Services,Mid-Market,United Kingdom,Aditi Rao,Enterprise,39712.8,1,0,0,2025-06-10
+O00187,A0128,R008,2025-02-25,Proposal,14847,0.6,,Open,,Expansion,Manufacturing,SMB,Singapore,Dev Malhotra,Mid-Market,8908.199999999999,1,0,0,2025-07-21
+O00188,A0495,R004,2025-10-20,Closed Won,34839,1.0,2025-11-26,Closed Won,,Expansion,Financial Services,Mid-Market,Singapore,Rohan Das,SMB,34839.0,0,1,0,2025-12-31
+O00189,A0406,R006,2025-02-17,Closed Lost,24592,0.0,2025-04-29,Closed Lost,Price,New Business,Manufacturing,Mid-Market,United Kingdom,Arjun Nair,Enterprise,0.0,0,0,1,2025-07-16
+O00190,A0316,R007,2025-01-21,Closed Won,18207,1.0,2025-05-04,Closed Won,,Expansion,Healthcare,Mid-Market,United Kingdom,Ishita Sen,SMB,18207.0,0,1,0,2025-03-27
+O00191,A0045,R001,2025-11-05,Closed Won,77706,1.0,2025-12-29,Closed Won,,New Business,Financial Services,Enterprise,United Kingdom,Aditi Rao,Enterprise,77706.0,0,1,0,2025-12-31
+O00192,A0536,R008,2025-10-15,Demo,139666,0.4,,Open,,Expansion,Education,Enterprise,United States,Dev Malhotra,Mid-Market,55866.4,1,0,0,2025-12-31
+O00193,A0051,R004,2025-11-25,Closed Won,13213,1.0,2025-12-31,Closed Won,,New Business,Education,SMB,Singapore,Rohan Das,SMB,13213.0,0,1,0,2025-12-31
+O00194,A0019,R002,2025-02-22,Qualification,6850,0.1,,Open,,New Business,Retail,SMB,United States,Kabir Mehta,SMB,685.0,1,0,0,2025-06-26
+O00195,A0066,R007,2025-11-17,Closed Won,38917,1.0,2025-12-31,Closed Won,,New Business,Retail,Mid-Market,United Kingdom,Ishita Sen,SMB,38917.0,0,1,0,2025-12-31
+O00196,A0586,R001,2025-07-25,Demo,14271,0.4,,Open,,New Business,Manufacturing,SMB,India,Aditi Rao,Enterprise,5708.400000000001,1,0,0,2025-11-02
+O00197,A0186,R003,2025-04-27,Discovery,8062,0.2,,Open,,New Business,Healthcare,SMB,United States,Neha Iyer,Mid-Market,1612.4,1,0,0,2025-08-31
+O00198,A0122,R001,2025-07-16,Closed Won,38578,1.0,2025-08-10,Closed Won,,New Business,Manufacturing,Mid-Market,United States,Aditi Rao,Enterprise,38578.0,0,1,0,2025-11-17
+O00199,A0511,R004,2025-01-11,Proposal,12318,0.6,,Open,,New Business,Education,SMB,India,Rohan Das,SMB,7390.799999999999,1,0,0,2025-06-02
+O00200,A0395,R007,2025-03-13,Closed Won,21524,1.0,2025-06-14,Closed Won,,Expansion,Manufacturing,Mid-Market,India,Ishita Sen,SMB,21524.0,0,1,0,2025-04-28
+O00201,A0373,R004,2025-08-29,Proposal,42288,0.6,,Open,,Expansion,Education,Mid-Market,United Kingdom,Rohan Das,SMB,25372.8,1,0,0,2025-12-31
+O00202,A0026,R006,2025-09-11,Proposal,122269,0.6,,Open,,Expansion,Financial Services,Enterprise,Singapore,Arjun Nair,Enterprise,73361.4,1,0,0,2025-12-31
+O00203,A0313,R007,2025-12-06,Discovery,19536,0.2,,Open,,Expansion,Financial Services,SMB,India,Ishita Sen,SMB,3907.2000000000003,1,0,0,2025-12-31
+O00204,A0695,R008,2025-05-11,Closed Won,57842,1.0,2025-07-18,Closed Won,,Expansion,Retail,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,57842.0,0,1,0,2025-06-28
+O00205,A0214,R006,2025-11-27,Closed Lost,19366,0.0,2025-12-31,Closed Lost,No decision,Expansion,Healthcare,Mid-Market,United States,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-31
+O00206,A0339,R002,2025-05-24,Closed Lost,23605,0.0,2025-08-01,Closed Lost,Timing,Expansion,Healthcare,Mid-Market,India,Kabir Mehta,SMB,0.0,0,0,1,2025-10-21
+O00207,A0363,R004,2025-05-18,Closed Lost,15129,0.0,2025-09-10,Closed Lost,Competitor,New Business,Education,SMB,India,Rohan Das,SMB,0.0,0,0,1,2025-08-16
+O00208,A0678,R006,2025-12-02,Closed Lost,15121,0.0,2025-12-31,Closed Lost,No decision,Expansion,Education,SMB,India,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-31
+O00209,A0507,R004,2025-08-11,Proposal,15129,0.6,,Open,,Expansion,Education,SMB,Singapore,Rohan Das,SMB,9077.4,1,0,0,2025-12-31
+O00210,A0247,R003,2025-01-16,Proposal,67940,0.6,,Open,,Expansion,Retail,SMB,United States,Neha Iyer,Mid-Market,40764.0,1,0,0,2025-05-18
+O00211,A0374,R008,2025-01-03,Negotiation,15515,0.8,,Open,,Expansion,Financial Services,SMB,India,Dev Malhotra,Mid-Market,12412.0,1,0,0,2025-05-28
+O00212,A0250,R003,2025-11-30,Closed Lost,158361,0.0,2025-12-31,Closed Lost,Timing,New Business,Retail,Enterprise,Singapore,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00213,A0673,R005,2025-06-03,Closed Won,55302,1.0,2025-08-17,Closed Won,,Expansion,Healthcare,Mid-Market,United States,Maya Shah,Mid-Market,55302.0,0,1,0,2025-10-29
+O00214,A0549,R001,2025-07-02,Closed Won,127358,1.0,2025-08-30,Closed Won,,Expansion,Education,Enterprise,Singapore,Aditi Rao,Enterprise,127358.0,0,1,0,2025-11-25
+O00215,A0062,R006,2025-01-17,Demo,82434,0.4,,Open,,Expansion,Manufacturing,Enterprise,India,Arjun Nair,Enterprise,32973.6,1,0,0,2025-05-28
+O00216,A0475,R003,2025-01-05,Closed Won,16885,1.0,2025-02-19,Closed Won,,Expansion,Retail,SMB,United States,Neha Iyer,Mid-Market,16885.0,0,1,0,2025-05-24
+O00217,A0177,R004,2025-10-18,Closed Won,25425,1.0,2025-12-31,Closed Won,,Expansion,Manufacturing,Mid-Market,Singapore,Rohan Das,SMB,25425.0,0,1,0,2025-12-31
+O00218,A0233,R008,2025-03-14,Demo,85396,0.4,,Open,,Expansion,Financial Services,Enterprise,United States,Dev Malhotra,Mid-Market,34158.4,1,0,0,2025-08-02
+O00219,A0651,R006,2025-11-18,Qualification,28936,0.1,,Open,,New Business,IT Services,Mid-Market,Singapore,Arjun Nair,Enterprise,2893.6000000000004,1,0,0,2025-12-31
+O00220,A0065,R007,2025-03-12,Closed Lost,12450,0.0,2025-05-10,Closed Lost,Price,Expansion,Manufacturing,SMB,India,Ishita Sen,SMB,0.0,0,0,1,2025-04-07
+O00221,A0040,R003,2025-11-22,Closed Won,34004,1.0,2025-12-31,Closed Won,,New Business,IT Services,SMB,Singapore,Neha Iyer,Mid-Market,34004.0,0,1,0,2025-12-31
+O00222,A0674,R003,2025-10-15,Closed Won,5179,1.0,2025-11-30,Closed Won,,Expansion,Healthcare,SMB,Singapore,Neha Iyer,Mid-Market,5179.0,0,1,0,2025-12-31
+O00223,A0233,R002,2025-03-13,Demo,129372,0.4,,Open,,New Business,Financial Services,Enterprise,United States,Kabir Mehta,SMB,51748.8,1,0,0,2025-07-06
+O00224,A0230,R008,2025-11-14,Proposal,45977,0.6,,Open,,New Business,Manufacturing,Enterprise,India,Dev Malhotra,Mid-Market,27586.2,1,0,0,2025-12-31
+O00225,A0081,R002,2025-02-27,Closed Won,76823,1.0,2025-06-11,Closed Won,,Expansion,IT Services,Enterprise,United States,Kabir Mehta,SMB,76823.0,0,1,0,2025-07-23
+O00226,A0590,R001,2025-05-21,Qualification,155074,0.1,,Open,,Expansion,Education,Enterprise,United States,Aditi Rao,Enterprise,15507.400000000001,1,0,0,2025-10-01
+O00227,A0190,R008,2025-05-16,Closed Won,37056,1.0,2025-07-30,Closed Won,,Expansion,IT Services,Mid-Market,Singapore,Dev Malhotra,Mid-Market,37056.0,0,1,0,2025-09-04
+O00228,A0188,R006,2025-02-26,Demo,58492,0.4,,Open,,Expansion,IT Services,Enterprise,United Kingdom,Arjun Nair,Enterprise,23396.800000000003,1,0,0,2025-07-03
+O00229,A0229,R004,2025-10-11,Discovery,8697,0.2,,Open,,Expansion,Education,SMB,Singapore,Rohan Das,SMB,1739.4,1,0,0,2025-11-10
+O00230,A0351,R002,2025-05-13,Demo,128984,0.4,,Open,,New Business,Financial Services,Enterprise,India,Kabir Mehta,SMB,51593.600000000006,1,0,0,2025-08-13
+O00231,A0619,R002,2025-10-27,Closed Won,68388,1.0,2025-11-28,Closed Won,,New Business,Financial Services,Enterprise,Singapore,Kabir Mehta,SMB,68388.0,0,1,0,2025-12-16
+O00232,A0489,R005,2025-06-26,Discovery,104719,0.2,,Open,,New Business,Financial Services,Enterprise,Singapore,Maya Shah,Mid-Market,20943.800000000003,1,0,0,2025-09-11
+O00233,A0465,R001,2025-08-02,Closed Won,36745,1.0,2025-09-14,Closed Won,,New Business,Financial Services,Mid-Market,India,Aditi Rao,Enterprise,36745.0,0,1,0,2025-08-21
+O00234,A0426,R008,2025-04-13,Closed Won,26850,1.0,2025-06-04,Closed Won,,Expansion,Healthcare,Mid-Market,United States,Dev Malhotra,Mid-Market,26850.0,0,1,0,2025-09-05
+O00235,A0098,R003,2025-02-14,Proposal,94471,0.6,,Open,,Expansion,Retail,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,56682.6,1,0,0,2025-05-27
+O00236,A0434,R003,2025-08-06,Closed Won,47884,1.0,2025-09-07,Closed Won,,New Business,Financial Services,Mid-Market,Singapore,Neha Iyer,Mid-Market,47884.0,0,1,0,2025-12-31
+O00237,A0435,R001,2025-09-21,Closed Won,5000,1.0,2025-10-26,Closed Won,,Expansion,Manufacturing,SMB,Singapore,Aditi Rao,Enterprise,5000.0,0,1,0,2025-12-31
+O00238,A0402,R003,2025-01-08,Negotiation,39150,0.8,,Open,,Expansion,IT Services,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,31320.0,1,0,0,2025-06-07
+O00239,A0585,R004,2025-02-12,Demo,8909,0.4,,Open,,New Business,Retail,SMB,India,Rohan Das,SMB,3563.6000000000004,1,0,0,2025-07-09
+O00240,A0241,R006,2025-02-07,Closed Lost,139417,0.0,2025-04-26,Closed Lost,Price,Expansion,Healthcare,Enterprise,United States,Arjun Nair,Enterprise,0.0,0,0,1,2025-06-28
+O00241,A0344,R001,2025-06-18,Proposal,25201,0.6,,Open,,New Business,Healthcare,Mid-Market,Singapore,Aditi Rao,Enterprise,15120.599999999999,1,0,0,2025-10-13
+O00242,A0129,R007,2025-08-14,Closed Won,11396,1.0,2025-09-15,Closed Won,,New Business,Education,SMB,India,Ishita Sen,SMB,11396.0,0,1,0,2025-11-08
+O00243,A0221,R005,2025-04-28,Demo,15061,0.4,,Open,,New Business,IT Services,SMB,United Kingdom,Maya Shah,Mid-Market,6024.400000000001,1,0,0,2025-09-10
+O00244,A0316,R006,2025-02-16,Demo,53149,0.4,,Open,,New Business,Healthcare,Mid-Market,United Kingdom,Arjun Nair,Enterprise,21259.600000000002,1,0,0,2025-06-14
+O00245,A0149,R006,2025-11-08,Discovery,6992,0.2,,Open,,Expansion,IT Services,SMB,United Kingdom,Arjun Nair,Enterprise,1398.4,1,0,0,2025-12-31
+O00246,A0048,R003,2025-10-11,Closed Won,10323,1.0,2025-11-30,Closed Won,,New Business,Manufacturing,SMB,India,Neha Iyer,Mid-Market,10323.0,0,1,0,2025-12-31
+O00247,A0253,R005,2025-03-09,Closed Lost,76719,0.0,2025-06-30,Closed Lost,Competitor,Expansion,Retail,Enterprise,United States,Maya Shah,Mid-Market,0.0,0,0,1,2025-06-13
+O00248,A0388,R008,2025-04-05,Qualification,8943,0.1,,Open,,Expansion,Retail,SMB,United Kingdom,Dev Malhotra,Mid-Market,894.3000000000001,1,0,0,2025-07-22
+O00249,A0300,R001,2025-05-27,Discovery,26558,0.2,,Open,,New Business,Healthcare,SMB,United States,Aditi Rao,Enterprise,5311.6,1,0,0,2025-07-13
+O00250,A0534,R004,2025-11-28,Closed Lost,14398,0.0,2025-12-31,Closed Lost,Timing,Expansion,Manufacturing,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00251,A0231,R002,2025-01-20,Proposal,20411,0.6,,Open,,Expansion,IT Services,Mid-Market,United States,Kabir Mehta,SMB,12246.6,1,0,0,2025-05-28
+O00252,A0496,R002,2025-11-25,Closed Won,18136,1.0,2025-12-17,Closed Won,,Expansion,Education,SMB,India,Kabir Mehta,SMB,18136.0,0,1,0,2025-12-31
+O00253,A0151,R002,2025-08-28,Discovery,31183,0.2,,Open,,Expansion,Financial Services,SMB,India,Kabir Mehta,SMB,6236.6,1,0,0,2025-12-31
+O00254,A0066,R008,2025-04-20,Demo,57290,0.4,,Open,,Expansion,Retail,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,22916.0,1,0,0,2025-08-06
+O00255,A0145,R002,2025-01-28,Demo,6056,0.4,,Open,,New Business,Financial Services,SMB,Singapore,Kabir Mehta,SMB,2422.4,1,0,0,2025-03-02
+O00256,A0161,R002,2025-10-31,Closed Lost,9650,0.0,2025-12-31,Closed Lost,Timing,New Business,Retail,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00257,A0330,R008,2025-04-22,Demo,21221,0.4,,Open,,Expansion,Financial Services,SMB,India,Dev Malhotra,Mid-Market,8488.4,1,0,0,2025-08-25
+O00258,A0117,R001,2025-07-03,Closed Won,26181,1.0,2025-09-26,Closed Won,,Expansion,Education,Mid-Market,United Kingdom,Aditi Rao,Enterprise,26181.0,0,1,0,2025-11-30
+O00259,A0500,R001,2025-08-15,Discovery,14652,0.2,,Open,,New Business,Financial Services,SMB,United Kingdom,Aditi Rao,Enterprise,2930.4,1,0,0,2025-12-31
+O00260,A0383,R004,2025-01-29,Closed Won,51014,1.0,2025-03-30,Closed Won,,New Business,IT Services,Mid-Market,United States,Rohan Das,SMB,51014.0,0,1,0,2025-06-17
+O00261,A0011,R003,2025-01-04,Closed Won,7907,1.0,2025-04-16,Closed Won,,Expansion,Education,SMB,India,Neha Iyer,Mid-Market,7907.0,0,1,0,2025-04-04
+O00262,A0534,R004,2025-10-14,Closed Lost,11682,0.0,2025-12-31,Closed Lost,Price,New Business,Manufacturing,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00263,A0318,R006,2025-01-29,Closed Won,5000,1.0,2025-03-30,Closed Won,,Expansion,Education,SMB,India,Arjun Nair,Enterprise,5000.0,0,1,0,2025-06-11
+O00264,A0464,R007,2025-01-25,Closed Won,7568,1.0,2025-02-20,Closed Won,,Expansion,Healthcare,SMB,Singapore,Ishita Sen,SMB,7568.0,0,1,0,2025-06-15
+O00265,A0009,R004,2025-05-20,Closed Lost,84793,0.0,2025-08-31,Closed Lost,Missing feature,Expansion,Manufacturing,Enterprise,United Kingdom,Rohan Das,SMB,0.0,0,0,1,2025-09-21
+O00266,A0305,R002,2025-10-02,Qualification,20532,0.1,,Open,,Expansion,IT Services,Mid-Market,India,Kabir Mehta,SMB,2053.2000000000003,1,0,0,2025-11-06
+O00267,A0555,R002,2025-01-23,Closed Won,25015,1.0,2025-03-15,Closed Won,,New Business,Retail,SMB,United States,Kabir Mehta,SMB,25015.0,0,1,0,2025-06-09
+O00268,A0458,R003,2025-02-06,Closed Won,18915,1.0,2025-04-07,Closed Won,,New Business,Healthcare,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,18915.0,0,1,0,2025-05-27
+O00269,A0250,R004,2025-05-24,Closed Lost,77933,0.0,2025-06-20,Closed Lost,Timing,Expansion,Retail,Enterprise,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-10-20
+O00270,A0164,R003,2025-01-02,Closed Won,12727,1.0,2025-03-31,Closed Won,,New Business,Healthcare,SMB,United Kingdom,Neha Iyer,Mid-Market,12727.0,0,1,0,2025-05-21
+O00271,A0371,R004,2025-03-30,Closed Won,22953,1.0,2025-06-28,Closed Won,,New Business,Education,SMB,Singapore,Rohan Das,SMB,22953.0,0,1,0,2025-08-26
+O00272,A0079,R007,2025-09-25,Closed Won,6288,1.0,2025-12-31,Closed Won,,Expansion,Healthcare,SMB,United Kingdom,Ishita Sen,SMB,6288.0,0,1,0,2025-12-31
+O00273,A0228,R007,2025-01-05,Closed Won,60760,1.0,2025-04-07,Closed Won,,New Business,Education,Mid-Market,United States,Ishita Sen,SMB,60760.0,0,1,0,2025-05-08
+O00274,A0665,R008,2025-05-06,Demo,12055,0.4,,Open,,Expansion,Manufacturing,SMB,United Kingdom,Dev Malhotra,Mid-Market,4822.0,1,0,0,2025-08-22
+O00275,A0523,R005,2025-11-28,Closed Lost,7715,0.0,2025-12-31,Closed Lost,No decision,New Business,Education,SMB,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-31
+O00276,A0044,R001,2025-07-01,Closed Won,44321,1.0,2025-08-22,Closed Won,,New Business,Education,Mid-Market,United States,Aditi Rao,Enterprise,44321.0,0,1,0,2025-09-19
+O00277,A0052,R008,2025-01-05,Closed Lost,39373,0.0,2025-03-16,Closed Lost,No decision,Expansion,Financial Services,Mid-Market,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-04-30
+O00278,A0575,R006,2025-01-15,Demo,9159,0.4,,Open,,Expansion,IT Services,SMB,United States,Arjun Nair,Enterprise,3663.6000000000004,1,0,0,2025-06-10
+O00279,A0107,R003,2025-04-21,Closed Lost,37148,0.0,2025-07-12,Closed Lost,Competitor,New Business,IT Services,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,0.0,0,0,1,2025-09-18
+O00280,A0113,R002,2025-11-15,Closed Won,10089,1.0,2025-12-31,Closed Won,,Expansion,Education,SMB,Singapore,Kabir Mehta,SMB,10089.0,0,1,0,2025-12-31
+O00281,A0371,R005,2025-07-06,Closed Lost,12628,0.0,2025-09-19,Closed Lost,No decision,Expansion,Education,SMB,Singapore,Maya Shah,Mid-Market,0.0,0,0,1,2025-11-03
+O00282,A0353,R006,2025-07-19,Demo,16165,0.4,,Open,,Expansion,Education,SMB,Singapore,Arjun Nair,Enterprise,6466.0,1,0,0,2025-12-09
+O00283,A0439,R008,2025-02-10,Closed Won,24498,1.0,2025-04-28,Closed Won,,New Business,Retail,SMB,Singapore,Dev Malhotra,Mid-Market,24498.0,0,1,0,2025-04-04
+O00284,A0692,R007,2025-03-14,Discovery,6874,0.2,,Open,,Expansion,IT Services,SMB,United States,Ishita Sen,SMB,1374.8000000000002,1,0,0,2025-08-09
+O00285,A0411,R002,2025-03-10,Proposal,248077,0.6,,Open,,Expansion,Healthcare,Enterprise,Singapore,Kabir Mehta,SMB,148846.19999999998,1,0,0,2025-07-02
+O00286,A0452,R004,2025-01-13,Closed Lost,5000,0.0,2025-04-01,Closed Lost,No decision,Expansion,Education,SMB,India,Rohan Das,SMB,0.0,0,0,1,2025-05-09
+O00287,A0101,R004,2025-10-06,Demo,33623,0.4,,Open,,Expansion,Healthcare,Mid-Market,United States,Rohan Das,SMB,13449.2,1,0,0,2025-12-31
+O00288,A0048,R003,2025-03-13,Closed Won,15637,1.0,2025-06-24,Closed Won,,Expansion,Manufacturing,SMB,India,Neha Iyer,Mid-Market,15637.0,0,1,0,2025-08-08
+O00289,A0684,R007,2025-02-05,Closed Lost,40852,0.0,2025-05-31,Closed Lost,Missing feature,Expansion,IT Services,Mid-Market,United Kingdom,Ishita Sen,SMB,0.0,0,0,1,2025-02-13
+O00290,A0181,R008,2025-08-06,Closed Won,9067,1.0,2025-09-22,Closed Won,,New Business,Healthcare,SMB,Singapore,Dev Malhotra,Mid-Market,9067.0,0,1,0,2025-12-31
+O00291,A0304,R002,2025-02-06,Discovery,86506,0.2,,Open,,New Business,Manufacturing,Enterprise,United Kingdom,Kabir Mehta,SMB,17301.2,1,0,0,2025-06-26
+O00292,A0306,R003,2025-11-17,Discovery,9612,0.2,,Open,,Expansion,IT Services,SMB,United States,Neha Iyer,Mid-Market,1922.4,1,0,0,2025-12-31
+O00293,A0524,R004,2025-02-27,Negotiation,9204,0.8,,Open,,Expansion,Retail,SMB,Singapore,Rohan Das,SMB,7363.200000000001,1,0,0,2025-07-27
+O00294,A0213,R007,2025-05-15,Closed Lost,52764,0.0,2025-09-14,Closed Lost,Competitor,Expansion,Retail,Mid-Market,India,Ishita Sen,SMB,0.0,0,0,1,2025-09-01
+O00295,A0321,R007,2025-10-03,Discovery,14091,0.2,,Open,,Expansion,Financial Services,SMB,India,Ishita Sen,SMB,2818.2000000000003,1,0,0,2025-12-31
+O00296,A0023,R004,2025-07-13,Proposal,8785,0.6,,Open,,New Business,Retail,SMB,Singapore,Rohan Das,SMB,5271.0,1,0,0,2025-12-06
+O00297,A0004,R001,2025-05-23,Closed Lost,17988,0.0,2025-08-08,Closed Lost,Timing,New Business,Financial Services,SMB,India,Aditi Rao,Enterprise,0.0,0,0,1,2025-10-17
+O00298,A0412,R004,2025-02-10,Demo,13779,0.4,,Open,,New Business,Retail,SMB,India,Rohan Das,SMB,5511.6,1,0,0,2025-07-10
+O00299,A0149,R002,2025-12-05,Demo,17299,0.4,,Open,,New Business,IT Services,SMB,United Kingdom,Kabir Mehta,SMB,6919.6,1,0,0,2025-12-31
+O00300,A0393,R006,2025-11-03,Closed Won,126116,1.0,2025-12-01,Closed Won,,New Business,Healthcare,Enterprise,United States,Arjun Nair,Enterprise,126116.0,0,1,0,2025-12-27
+O00301,A0271,R001,2025-07-13,Proposal,8263,0.6,,Open,,New Business,Retail,SMB,United Kingdom,Aditi Rao,Enterprise,4957.8,1,0,0,2025-11-04
+O00302,A0084,R008,2025-03-29,Closed Won,27978,1.0,2025-05-08,Closed Won,,Expansion,Retail,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,27978.0,0,1,0,2025-04-17
+O00303,A0492,R002,2025-09-23,Closed Won,16796,1.0,2025-10-24,Closed Won,,New Business,Healthcare,SMB,India,Kabir Mehta,SMB,16796.0,0,1,0,2025-12-31
+O00304,A0458,R007,2025-11-30,Closed Won,47379,1.0,2025-12-31,Closed Won,,Expansion,Healthcare,Mid-Market,United Kingdom,Ishita Sen,SMB,47379.0,0,1,0,2025-12-31
+O00305,A0694,R008,2025-09-27,Proposal,11887,0.6,,Open,,Expansion,Financial Services,SMB,India,Dev Malhotra,Mid-Market,7132.2,1,0,0,2025-12-31
+O00306,A0591,R008,2025-05-26,Demo,37951,0.4,,Open,,New Business,Healthcare,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,15180.400000000001,1,0,0,2025-10-12
+O00307,A0324,R003,2025-03-11,Closed Won,63973,1.0,2025-04-15,Closed Won,,New Business,IT Services,Mid-Market,India,Neha Iyer,Mid-Market,63973.0,0,1,0,2025-08-07
+O00308,A0286,R007,2025-06-21,Discovery,9195,0.2,,Open,,New Business,Retail,SMB,India,Ishita Sen,SMB,1839.0,1,0,0,2025-10-29
+O00309,A0567,R002,2025-01-05,Closed Lost,15349,0.0,2025-03-24,Closed Lost,No decision,Expansion,Financial Services,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-05-08
+O00310,A0417,R004,2025-02-18,Discovery,32869,0.2,,Open,,New Business,IT Services,Mid-Market,Singapore,Rohan Das,SMB,6573.8,1,0,0,2025-04-04
+O00311,A0173,R008,2025-07-07,Demo,10880,0.4,,Open,,New Business,Financial Services,SMB,United Kingdom,Dev Malhotra,Mid-Market,4352.0,1,0,0,2025-12-02
+O00312,A0425,R002,2025-08-03,Demo,59025,0.4,,Open,,New Business,Retail,Mid-Market,United States,Kabir Mehta,SMB,23610.0,1,0,0,2025-10-01
+O00313,A0500,R002,2025-02-15,Negotiation,17397,0.8,,Open,,New Business,Financial Services,SMB,United Kingdom,Kabir Mehta,SMB,13917.6,1,0,0,2025-06-23
+O00314,A0402,R003,2025-01-25,Closed Won,51914,1.0,2025-03-12,Closed Won,,New Business,IT Services,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,51914.0,0,1,0,2025-05-09
+O00315,A0512,R002,2025-08-07,Discovery,21593,0.2,,Open,,New Business,Financial Services,SMB,United States,Kabir Mehta,SMB,4318.6,1,0,0,2025-11-25
+O00316,A0118,R007,2025-04-24,Proposal,12113,0.6,,Open,,Expansion,Manufacturing,SMB,United Kingdom,Ishita Sen,SMB,7267.8,1,0,0,2025-08-12
+O00317,A0124,R004,2025-02-09,Closed Lost,48930,0.0,2025-06-14,Closed Lost,Timing,Expansion,Education,Mid-Market,India,Rohan Das,SMB,0.0,0,0,1,2025-06-05
+O00318,A0275,R001,2025-01-24,Closed Lost,10436,0.0,2025-04-26,Closed Lost,Price,New Business,Financial Services,SMB,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-05-13
+O00319,A0488,R003,2025-11-04,Closed Lost,13884,0.0,2025-12-26,Closed Lost,Competitor,Expansion,Manufacturing,SMB,India,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00320,A0516,R004,2025-06-24,Negotiation,33952,0.8,,Open,,New Business,Financial Services,Mid-Market,Singapore,Rohan Das,SMB,27161.600000000002,1,0,0,2025-11-03
+O00321,A0697,R002,2025-03-20,Closed Lost,37606,0.0,2025-05-09,Closed Lost,No decision,New Business,Healthcare,Mid-Market,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-08-11
+O00322,A0149,R006,2025-06-25,Closed Won,15685,1.0,2025-08-18,Closed Won,,New Business,IT Services,SMB,United Kingdom,Arjun Nair,Enterprise,15685.0,0,1,0,2025-11-12
+O00323,A0615,R003,2025-06-15,Proposal,24911,0.6,,Open,,Expansion,Healthcare,Mid-Market,Singapore,Neha Iyer,Mid-Market,14946.599999999999,1,0,0,2025-10-03
+O00324,A0506,R007,2025-04-02,Qualification,30768,0.1,,Open,,New Business,Education,SMB,United States,Ishita Sen,SMB,3076.8,1,0,0,2025-08-04
+O00325,A0193,R007,2025-01-20,Closed Won,7630,1.0,2025-04-19,Closed Won,,Expansion,Financial Services,SMB,India,Ishita Sen,SMB,7630.0,0,1,0,2025-06-03
+O00326,A0239,R005,2025-07-03,Closed Won,20845,1.0,2025-08-18,Closed Won,,Expansion,Financial Services,Mid-Market,United Kingdom,Maya Shah,Mid-Market,20845.0,0,1,0,2025-09-10
+O00327,A0326,R004,2025-02-18,Closed Lost,20207,0.0,2025-04-01,Closed Lost,Price,New Business,Education,SMB,United Kingdom,Rohan Das,SMB,0.0,0,0,1,2025-07-17
+O00328,A0009,R008,2025-11-03,Closed Lost,135656,0.0,2025-12-31,Closed Lost,Competitor,New Business,Manufacturing,Enterprise,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00329,A0667,R007,2025-12-05,Closed Lost,15891,0.0,2025-12-31,Closed Lost,Timing,Expansion,Healthcare,SMB,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-12-31
+O00330,A0139,R005,2025-01-17,Proposal,15921,0.6,,Open,,New Business,Financial Services,SMB,United States,Maya Shah,Mid-Market,9552.6,1,0,0,2025-06-15
+O00331,A0111,R008,2025-09-05,Negotiation,11934,0.8,,Open,,Expansion,Financial Services,SMB,United Kingdom,Dev Malhotra,Mid-Market,9547.2,1,0,0,2025-12-31
+O00332,A0667,R002,2025-08-03,Closed Lost,8013,0.0,2025-08-26,Closed Lost,Price,New Business,Healthcare,SMB,Singapore,Kabir Mehta,SMB,0.0,0,0,1,2025-12-12
+O00333,A0221,R008,2025-04-09,Demo,12416,0.4,,Open,,Expansion,IT Services,SMB,United Kingdom,Dev Malhotra,Mid-Market,4966.400000000001,1,0,0,2025-08-12
+O00334,A0140,R002,2025-09-03,Proposal,70046,0.6,,Open,,New Business,Financial Services,Enterprise,India,Kabir Mehta,SMB,42027.6,1,0,0,2025-12-31
+O00335,A0185,R005,2025-03-09,Demo,55830,0.4,,Open,,Expansion,Education,Mid-Market,India,Maya Shah,Mid-Market,22332.0,1,0,0,2025-08-03
+O00336,A0097,R004,2025-02-01,Closed Lost,88916,0.0,2025-03-19,Closed Lost,No decision,New Business,Retail,Enterprise,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-05-14
+O00337,A0445,R006,2025-06-07,Qualification,24829,0.1,,Open,,New Business,Education,Mid-Market,Singapore,Arjun Nair,Enterprise,2482.9,1,0,0,2025-11-04
+O00338,A0665,R005,2025-05-29,Closed Won,10384,1.0,2025-07-25,Closed Won,,Expansion,Manufacturing,SMB,United Kingdom,Maya Shah,Mid-Market,10384.0,0,1,0,2025-10-17
+O00339,A0160,R001,2025-03-22,Discovery,43351,0.2,,Open,,Expansion,Education,Mid-Market,Singapore,Aditi Rao,Enterprise,8670.2,1,0,0,2025-08-16
+O00340,A0008,R005,2025-08-13,Closed Lost,9311,0.0,2025-11-25,Closed Lost,Price,New Business,Retail,SMB,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-15
+O00341,A0685,R007,2025-12-03,Closed Won,24866,1.0,2025-12-31,Closed Won,,Expansion,Education,Mid-Market,India,Ishita Sen,SMB,24866.0,0,1,0,2025-12-31
+O00342,A0281,R001,2025-11-10,Discovery,106010,0.2,,Open,,Expansion,Manufacturing,Enterprise,Singapore,Aditi Rao,Enterprise,21202.0,1,0,0,2025-12-31
+O00343,A0507,R006,2025-04-09,Demo,13398,0.4,,Open,,New Business,Education,SMB,Singapore,Arjun Nair,Enterprise,5359.200000000001,1,0,0,2025-08-08
+O00344,A0198,R008,2025-01-20,Closed Lost,75622,0.0,2025-05-21,Closed Lost,No decision,Expansion,Education,Enterprise,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-05-26
+O00345,A0333,R002,2025-11-21,Demo,29123,0.4,,Open,,New Business,Retail,Mid-Market,United Kingdom,Kabir Mehta,SMB,11649.2,1,0,0,2025-12-31
+O00346,A0395,R002,2025-02-06,Closed Won,39962,1.0,2025-03-23,Closed Won,,Expansion,Manufacturing,Mid-Market,India,Kabir Mehta,SMB,39962.0,0,1,0,2025-07-03
+O00347,A0393,R006,2025-11-12,Closed Won,49513,1.0,2025-12-31,Closed Won,,New Business,Healthcare,Enterprise,United States,Arjun Nair,Enterprise,49513.0,0,1,0,2025-12-31
+O00348,A0037,R003,2025-05-04,Closed Lost,19109,0.0,2025-08-18,Closed Lost,Missing feature,Expansion,Healthcare,Mid-Market,India,Neha Iyer,Mid-Market,0.0,0,0,1,2025-06-20
+O00349,A0598,R007,2025-11-04,Closed Won,8685,1.0,2025-12-15,Closed Won,,Expansion,Manufacturing,SMB,United States,Ishita Sen,SMB,8685.0,0,1,0,2025-12-31
+O00350,A0240,R004,2025-10-03,Closed Lost,32703,0.0,2025-12-29,Closed Lost,Competitor,New Business,Education,Mid-Market,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00351,A0067,R004,2025-11-08,Proposal,41406,0.6,,Open,,New Business,IT Services,Mid-Market,United States,Rohan Das,SMB,24843.6,1,0,0,2025-12-31
+O00352,A0313,R003,2025-05-24,Proposal,23308,0.6,,Open,,Expansion,Financial Services,SMB,India,Neha Iyer,Mid-Market,13984.8,1,0,0,2025-10-20
+O00353,A0003,R007,2025-08-06,Demo,139745,0.4,,Open,,New Business,Retail,Enterprise,India,Ishita Sen,SMB,55898.0,1,0,0,2025-12-05
+O00354,A0277,R007,2025-04-08,Closed Won,11166,1.0,2025-06-05,Closed Won,,New Business,Manufacturing,SMB,United Kingdom,Ishita Sen,SMB,11166.0,0,1,0,2025-08-21
+O00355,A0244,R005,2025-04-17,Closed Lost,35693,0.0,2025-05-15,Closed Lost,Timing,Expansion,Retail,Mid-Market,United States,Maya Shah,Mid-Market,0.0,0,0,1,2025-08-10
+O00356,A0447,R005,2025-01-20,Closed Lost,60505,0.0,2025-05-14,Closed Lost,Competitor,Expansion,Financial Services,Enterprise,India,Maya Shah,Mid-Market,0.0,0,0,1,2025-04-12
+O00357,A0180,R005,2025-05-08,Qualification,35701,0.1,,Open,,New Business,Education,Mid-Market,Singapore,Maya Shah,Mid-Market,3570.1000000000004,1,0,0,2025-07-31
+O00358,A0568,R006,2025-06-25,Closed Won,10538,1.0,2025-08-18,Closed Won,,New Business,Financial Services,SMB,Singapore,Arjun Nair,Enterprise,10538.0,0,1,0,2025-09-05
+O00359,A0349,R001,2025-10-23,Qualification,13875,0.1,,Open,,Expansion,Manufacturing,SMB,United States,Aditi Rao,Enterprise,1387.5,1,0,0,2025-12-31
+O00360,A0624,R005,2025-09-03,Proposal,24810,0.6,,Open,,New Business,IT Services,Mid-Market,Singapore,Maya Shah,Mid-Market,14886.0,1,0,0,2025-12-31
+O00361,A0583,R007,2025-11-06,Discovery,15159,0.2,,Open,,Expansion,Manufacturing,SMB,United States,Ishita Sen,SMB,3031.8,1,0,0,2025-12-31
+O00362,A0215,R006,2025-11-04,Closed Won,71754,1.0,2025-12-31,Closed Won,,Expansion,Education,Mid-Market,United Kingdom,Arjun Nair,Enterprise,71754.0,0,1,0,2025-12-31
+O00363,A0337,R001,2025-05-13,Closed Lost,11426,0.0,2025-09-07,Closed Lost,Timing,New Business,IT Services,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-09-15
+O00364,A0005,R001,2025-10-31,Discovery,14377,0.2,,Open,,New Business,Manufacturing,SMB,India,Aditi Rao,Enterprise,2875.4,1,0,0,2025-12-31
+O00365,A0564,R008,2025-04-19,Negotiation,49111,0.8,,Open,,Expansion,Financial Services,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,39288.8,1,0,0,2025-09-02
+O00366,A0683,R007,2025-09-22,Discovery,30053,0.2,,Open,,Expansion,Financial Services,Mid-Market,Singapore,Ishita Sen,SMB,6010.6,1,0,0,2025-12-29
+O00367,A0468,R001,2025-07-29,Demo,39819,0.4,,Open,,New Business,Retail,Mid-Market,United States,Aditi Rao,Enterprise,15927.6,1,0,0,2025-11-26
+O00368,A0444,R001,2025-02-13,Demo,36204,0.4,,Open,,New Business,Retail,Mid-Market,India,Aditi Rao,Enterprise,14481.6,1,0,0,2025-07-04
+O00369,A0083,R001,2025-04-21,Discovery,37617,0.2,,Open,,Expansion,Healthcare,Mid-Market,United Kingdom,Aditi Rao,Enterprise,7523.400000000001,1,0,0,2025-08-19
+O00370,A0106,R006,2025-07-20,Closed Lost,67089,0.0,2025-09-18,Closed Lost,Missing feature,Expansion,Education,Enterprise,United Kingdom,Arjun Nair,Enterprise,0.0,0,0,1,2025-10-20
+O00371,A0334,R001,2025-12-01,Closed Lost,12133,0.0,2025-12-31,Closed Lost,Timing,Expansion,Manufacturing,SMB,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-12-31
+O00372,A0021,R002,2025-07-16,Closed Lost,15014,0.0,2025-09-06,Closed Lost,Competitor,New Business,IT Services,SMB,India,Kabir Mehta,SMB,0.0,0,0,1,2025-10-20
+O00373,A0210,R005,2025-04-17,Discovery,23055,0.2,,Open,,Expansion,Healthcare,SMB,Singapore,Maya Shah,Mid-Market,4611.0,1,0,0,2025-08-31
+O00374,A0590,R006,2025-01-10,Negotiation,146283,0.8,,Open,,Expansion,Education,Enterprise,United States,Arjun Nair,Enterprise,117026.40000000001,1,0,0,2025-04-24
+O00375,A0332,R001,2025-11-27,Closed Lost,94864,0.0,2025-12-31,Closed Lost,Missing feature,New Business,Manufacturing,Mid-Market,India,Aditi Rao,Enterprise,0.0,0,0,1,2025-12-31
+O00376,A0497,R006,2025-06-09,Closed Won,67260,1.0,2025-08-01,Closed Won,,New Business,Manufacturing,Enterprise,United Kingdom,Arjun Nair,Enterprise,67260.0,0,1,0,2025-10-28
+O00377,A0575,R007,2025-02-06,Closed Lost,17768,0.0,2025-05-21,Closed Lost,Timing,New Business,IT Services,SMB,United States,Ishita Sen,SMB,0.0,0,0,1,2025-06-26
+O00378,A0340,R008,2025-03-05,Closed Lost,13032,0.0,2025-03-24,Closed Lost,No decision,Expansion,Manufacturing,SMB,India,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-06-19
+O00379,A0058,R004,2025-10-03,Closed Lost,32146,0.0,2025-12-31,Closed Lost,Missing feature,Expansion,Financial Services,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-12-24
+O00380,A0177,R007,2025-06-04,Closed Lost,25022,0.0,2025-09-28,Closed Lost,Price,Expansion,Manufacturing,Mid-Market,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-11-01
+O00381,A0256,R005,2025-10-21,Closed Won,24671,1.0,2025-12-31,Closed Won,,New Business,Healthcare,Mid-Market,United Kingdom,Maya Shah,Mid-Market,24671.0,0,1,0,2025-12-31
+O00382,A0688,R007,2025-04-11,Closed Lost,9163,0.0,2025-06-09,Closed Lost,No decision,New Business,Financial Services,SMB,India,Ishita Sen,SMB,0.0,0,0,1,2025-08-12
+O00383,A0087,R001,2025-02-10,Qualification,5000,0.1,,Open,,Expansion,IT Services,SMB,United States,Aditi Rao,Enterprise,500.0,1,0,0,2025-06-17
+O00384,A0616,R006,2025-02-13,Demo,9471,0.4,,Open,,New Business,Manufacturing,SMB,United States,Arjun Nair,Enterprise,3788.4,1,0,0,2025-06-20
+O00385,A0002,R005,2025-11-26,Proposal,8527,0.6,,Open,,New Business,Manufacturing,SMB,India,Maya Shah,Mid-Market,5116.2,1,0,0,2025-12-31
+O00386,A0502,R008,2025-06-29,Closed Lost,12840,0.0,2025-10-19,Closed Lost,Missing feature,New Business,Financial Services,SMB,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-10-21
+O00387,A0222,R007,2025-06-17,Closed Lost,110793,0.0,2025-07-08,Closed Lost,No decision,Expansion,Financial Services,Enterprise,India,Ishita Sen,SMB,0.0,0,0,1,2025-11-03
+O00388,A0221,R005,2025-06-05,Discovery,27915,0.2,,Open,,Expansion,IT Services,SMB,United Kingdom,Maya Shah,Mid-Market,5583.0,1,0,0,2025-10-29
+O00389,A0413,R007,2025-05-06,Closed Won,18404,1.0,2025-08-02,Closed Won,,New Business,IT Services,SMB,United States,Ishita Sen,SMB,18404.0,0,1,0,2025-09-22
+O00390,A0691,R003,2025-04-11,Closed Won,9256,1.0,2025-06-26,Closed Won,,Expansion,IT Services,SMB,United Kingdom,Neha Iyer,Mid-Market,9256.0,0,1,0,2025-07-25
+O00391,A0091,R008,2025-01-25,Closed Lost,24028,0.0,2025-03-09,Closed Lost,Price,Expansion,IT Services,Mid-Market,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-05-30
+O00392,A0309,R005,2025-07-02,Closed Lost,14973,0.0,2025-11-07,Closed Lost,Missing feature,New Business,Financial Services,SMB,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-11-06
+O00393,A0692,R007,2025-03-11,Closed Lost,6624,0.0,2025-05-15,Closed Lost,Missing feature,Expansion,IT Services,SMB,United States,Ishita Sen,SMB,0.0,0,0,1,2025-08-01
+O00394,A0043,R008,2025-09-11,Closed Won,216595,1.0,2025-12-03,Closed Won,,Expansion,Education,Enterprise,Singapore,Dev Malhotra,Mid-Market,216595.0,0,1,0,2025-12-31
+O00395,A0628,R005,2025-05-27,Negotiation,20402,0.8,,Open,,Expansion,Financial Services,SMB,Singapore,Maya Shah,Mid-Market,16321.6,1,0,0,2025-10-14
+O00396,A0142,R006,2025-04-08,Closed Lost,76918,0.0,2025-06-20,Closed Lost,Competitor,New Business,Financial Services,Enterprise,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-08-30
+O00397,A0246,R008,2025-07-19,Closed Lost,5551,0.0,2025-10-13,Closed Lost,Missing feature,Expansion,Financial Services,SMB,Singapore,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-14
+O00398,A0026,R005,2025-03-18,Closed Won,174708,1.0,2025-06-07,Closed Won,,Expansion,Financial Services,Enterprise,Singapore,Maya Shah,Mid-Market,174708.0,0,1,0,2025-08-09
+O00399,A0479,R006,2025-02-11,Closed Lost,34191,0.0,2025-04-23,Closed Lost,Competitor,New Business,Manufacturing,Mid-Market,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-05-16
+O00400,A0306,R002,2025-02-08,Closed Lost,20945,0.0,2025-04-24,Closed Lost,No decision,New Business,IT Services,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-06-28
+O00401,A0061,R001,2025-01-17,Qualification,5855,0.1,,Open,,Expansion,Manufacturing,SMB,Singapore,Aditi Rao,Enterprise,585.5,1,0,0,2025-06-16
+O00402,A0035,R007,2025-07-10,Closed Lost,9163,0.0,2025-10-25,Closed Lost,Timing,New Business,Manufacturing,SMB,India,Ishita Sen,SMB,0.0,0,0,1,2025-10-04
+O00403,A0248,R005,2025-05-15,Closed Lost,36085,0.0,2025-08-05,Closed Lost,Competitor,Expansion,Financial Services,Mid-Market,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-10-05
+O00404,A0375,R004,2025-06-25,Negotiation,36769,0.8,,Open,,New Business,IT Services,Mid-Market,United Kingdom,Rohan Das,SMB,29415.2,1,0,0,2025-10-30
+O00405,A0422,R007,2025-01-17,Negotiation,9799,0.8,,Open,,New Business,Financial Services,SMB,Singapore,Ishita Sen,SMB,7839.200000000001,1,0,0,2025-05-11
+O00406,A0038,R005,2025-08-27,Closed Won,15882,1.0,2025-11-28,Closed Won,,New Business,Healthcare,SMB,India,Maya Shah,Mid-Market,15882.0,0,1,0,2025-12-31
+O00407,A0072,R001,2025-05-06,Demo,22266,0.4,,Open,,Expansion,Retail,Mid-Market,United Kingdom,Aditi Rao,Enterprise,8906.4,1,0,0,2025-09-05
+O00408,A0432,R002,2025-02-10,Proposal,89104,0.6,,Open,,Expansion,Healthcare,Enterprise,India,Kabir Mehta,SMB,53462.4,1,0,0,2025-07-06
+O00409,A0322,R002,2025-02-14,Closed Lost,12667,0.0,2025-05-27,Closed Lost,Competitor,New Business,Financial Services,SMB,United Kingdom,Kabir Mehta,SMB,0.0,0,0,1,2025-06-29
+O00410,A0459,R005,2025-07-25,Closed Lost,45377,0.0,2025-09-17,Closed Lost,Competitor,Expansion,Manufacturing,Mid-Market,United States,Maya Shah,Mid-Market,0.0,0,0,1,2025-11-06
+O00411,A0460,R007,2025-02-17,Closed Lost,16529,0.0,2025-06-09,Closed Lost,Missing feature,Expansion,Education,SMB,United States,Ishita Sen,SMB,0.0,0,0,1,2025-06-10
+O00412,A0685,R001,2025-05-24,Proposal,21702,0.6,,Open,,Expansion,Education,Mid-Market,India,Aditi Rao,Enterprise,13021.199999999999,1,0,0,2025-09-29
+O00413,A0410,R007,2025-10-08,Proposal,18050,0.6,,Open,,New Business,Healthcare,Mid-Market,United States,Ishita Sen,SMB,10830.0,1,0,0,2025-12-31
+O00414,A0382,R003,2025-07-08,Closed Lost,63973,0.0,2025-10-07,Closed Lost,Timing,Expansion,Healthcare,Mid-Market,United States,Neha Iyer,Mid-Market,0.0,0,0,1,2025-10-03
+O00415,A0018,R002,2025-05-22,Proposal,13935,0.6,,Open,,New Business,Retail,SMB,India,Kabir Mehta,SMB,8361.0,1,0,0,2025-09-11
+O00416,A0004,R003,2025-10-22,Demo,8568,0.4,,Open,,Expansion,Financial Services,SMB,India,Neha Iyer,Mid-Market,3427.2000000000003,1,0,0,2025-12-31
+O00417,A0018,R006,2025-05-23,Proposal,24117,0.6,,Open,,Expansion,Retail,SMB,India,Arjun Nair,Enterprise,14470.199999999999,1,0,0,2025-09-04
+O00418,A0179,R003,2025-02-04,Closed Won,12641,1.0,2025-04-10,Closed Won,,New Business,Retail,SMB,United Kingdom,Neha Iyer,Mid-Market,12641.0,0,1,0,2025-07-02
+O00419,A0222,R002,2025-09-30,Closed Lost,161508,0.0,2025-10-19,Closed Lost,Competitor,Expansion,Financial Services,Enterprise,India,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00420,A0315,R008,2025-05-05,Closed Won,37110,1.0,2025-08-08,Closed Won,,New Business,Healthcare,Mid-Market,India,Dev Malhotra,Mid-Market,37110.0,0,1,0,2025-09-21
+O00421,A0260,R008,2025-09-14,Closed Lost,30333,0.0,2025-11-01,Closed Lost,Missing feature,Expansion,Retail,SMB,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00422,A0310,R003,2025-01-02,Closed Won,26438,1.0,2025-04-09,Closed Won,,Expansion,Education,SMB,United States,Neha Iyer,Mid-Market,26438.0,0,1,0,2025-04-26
+O00423,A0289,R002,2025-01-09,Proposal,10728,0.6,,Open,,New Business,Retail,SMB,United States,Kabir Mehta,SMB,6436.8,1,0,0,2025-05-18
+O00424,A0232,R008,2025-11-27,Closed Won,18580,1.0,2025-12-31,Closed Won,,New Business,Retail,SMB,United Kingdom,Dev Malhotra,Mid-Market,18580.0,0,1,0,2025-12-31
+O00425,A0551,R007,2025-07-31,Closed Lost,16043,0.0,2025-12-03,Closed Lost,Missing feature,Expansion,IT Services,SMB,United States,Ishita Sen,SMB,0.0,0,0,1,2025-12-16
+O00426,A0310,R002,2025-04-15,Closed Won,22215,1.0,2025-05-31,Closed Won,,Expansion,Education,SMB,United States,Kabir Mehta,SMB,22215.0,0,1,0,2025-08-18
+O00427,A0079,R004,2025-01-05,Closed Won,7773,1.0,2025-03-31,Closed Won,,Expansion,Healthcare,SMB,United Kingdom,Rohan Das,SMB,7773.0,0,1,0,2025-04-19
+O00428,A0201,R005,2025-08-03,Demo,16340,0.4,,Open,,New Business,Manufacturing,SMB,India,Maya Shah,Mid-Market,6536.0,1,0,0,2025-12-28
+O00429,A0358,R004,2025-11-15,Proposal,57963,0.6,,Open,,Expansion,Healthcare,Mid-Market,United States,Rohan Das,SMB,34777.799999999996,1,0,0,2025-12-31
+O00430,A0654,R003,2025-03-02,Closed Lost,5438,0.0,2025-06-02,Closed Lost,Competitor,Expansion,Education,SMB,United States,Neha Iyer,Mid-Market,0.0,0,0,1,2025-07-08
+O00431,A0638,R001,2025-10-23,Closed Lost,7045,0.0,2025-12-31,Closed Lost,Price,New Business,Retail,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-12-31
+O00432,A0568,R007,2025-06-19,Closed Lost,5000,0.0,2025-09-08,Closed Lost,Price,Expansion,Financial Services,SMB,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-11-06
+O00433,A0472,R006,2025-11-14,Closed Won,84153,1.0,2025-12-31,Closed Won,,New Business,Education,Enterprise,India,Arjun Nair,Enterprise,84153.0,0,1,0,2025-12-31
+O00434,A0100,R004,2025-06-09,Closed Lost,16573,0.0,2025-09-05,Closed Lost,Price,New Business,Manufacturing,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-10-22
+O00435,A0057,R004,2025-09-30,Closed Won,23593,1.0,2025-11-22,Closed Won,,Expansion,Manufacturing,SMB,Singapore,Rohan Das,SMB,23593.0,0,1,0,2025-12-31
+O00436,A0194,R005,2025-03-07,Negotiation,37220,0.8,,Open,,New Business,Manufacturing,Mid-Market,United Kingdom,Maya Shah,Mid-Market,29776.0,1,0,0,2025-06-15
+O00437,A0320,R003,2025-02-22,Proposal,197700,0.6,,Open,,Expansion,Financial Services,Enterprise,Singapore,Neha Iyer,Mid-Market,118620.0,1,0,0,2025-06-28
+O00438,A0248,R001,2025-10-28,Qualification,19345,0.1,,Open,,New Business,Financial Services,Mid-Market,United Kingdom,Aditi Rao,Enterprise,1934.5,1,0,0,2025-12-31
+O00439,A0528,R006,2025-03-21,Closed Lost,5575,0.0,2025-04-29,Closed Lost,Competitor,New Business,IT Services,SMB,India,Arjun Nair,Enterprise,0.0,0,0,1,2025-07-21
+O00440,A0090,R005,2025-07-25,Closed Won,92654,1.0,2025-09-14,Closed Won,,New Business,IT Services,Enterprise,United States,Maya Shah,Mid-Market,92654.0,0,1,0,2025-12-20
+O00441,A0341,R006,2025-07-05,Closed Won,14263,1.0,2025-07-31,Closed Won,,New Business,IT Services,SMB,Singapore,Arjun Nair,Enterprise,14263.0,0,1,0,2025-10-20
+O00442,A0329,R004,2025-01-20,Closed Won,11824,1.0,2025-03-20,Closed Won,,Expansion,Education,SMB,United States,Rohan Das,SMB,11824.0,0,1,0,2025-02-10
+O00443,A0011,R008,2025-08-14,Closed Lost,5000,0.0,2025-11-22,Closed Lost,Price,New Business,Education,SMB,India,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-10-04
+O00444,A0632,R007,2025-07-04,Discovery,34584,0.2,,Open,,Expansion,Manufacturing,Mid-Market,United Kingdom,Ishita Sen,SMB,6916.8,1,0,0,2025-11-21
+O00445,A0328,R008,2025-07-28,Proposal,20015,0.6,,Open,,New Business,Healthcare,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,12009.0,1,0,0,2025-11-17
+O00446,A0313,R006,2025-06-05,Closed Won,16220,1.0,2025-09-04,Closed Won,,New Business,Financial Services,SMB,India,Arjun Nair,Enterprise,16220.0,0,1,0,2025-10-17
+O00447,A0612,R002,2025-03-14,Closed Lost,42456,0.0,2025-06-15,Closed Lost,Timing,Expansion,IT Services,Mid-Market,Singapore,Kabir Mehta,SMB,0.0,0,0,1,2025-08-09
+O00448,A0350,R003,2025-01-29,Closed Lost,23584,0.0,2025-05-11,Closed Lost,Price,New Business,Education,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,0.0,0,0,1,2025-06-05
+O00449,A0024,R007,2025-02-23,Proposal,9522,0.6,,Open,,Expansion,Retail,SMB,United Kingdom,Ishita Sen,SMB,5713.2,1,0,0,2025-07-14
+O00450,A0631,R002,2025-01-09,Closed Won,58981,1.0,2025-04-28,Closed Won,,New Business,IT Services,Enterprise,United States,Kabir Mehta,SMB,58981.0,0,1,0,2025-06-04
+O00451,A0164,R005,2025-03-10,Qualification,11666,0.1,,Open,,New Business,Healthcare,SMB,United Kingdom,Maya Shah,Mid-Market,1166.6000000000001,1,0,0,2025-07-03
+O00452,A0428,R003,2025-03-19,Demo,55330,0.4,,Open,,Expansion,IT Services,Mid-Market,Singapore,Neha Iyer,Mid-Market,22132.0,1,0,0,2025-08-16
+O00453,A0365,R007,2025-03-29,Discovery,23102,0.2,,Open,,Expansion,Education,Mid-Market,United Kingdom,Ishita Sen,SMB,4620.400000000001,1,0,0,2025-08-11
+O00454,A0150,R001,2025-09-28,Closed Won,15055,1.0,2025-11-21,Closed Won,,Expansion,Financial Services,SMB,Singapore,Aditi Rao,Enterprise,15055.0,0,1,0,2025-12-31
+O00455,A0587,R002,2025-01-02,Closed Won,28357,1.0,2025-04-04,Closed Won,,New Business,Education,Mid-Market,India,Kabir Mehta,SMB,28357.0,0,1,0,2025-05-24
+O00456,A0143,R006,2025-09-10,Closed Won,25197,1.0,2025-10-16,Closed Won,,Expansion,Retail,Mid-Market,United States,Arjun Nair,Enterprise,25197.0,0,1,0,2025-12-31
+O00457,A0051,R004,2025-03-22,Closed Won,11435,1.0,2025-04-16,Closed Won,,Expansion,Education,SMB,Singapore,Rohan Das,SMB,11435.0,0,1,0,2025-08-01
+O00458,A0274,R006,2025-11-12,Closed Lost,59621,0.0,2025-12-13,Closed Lost,Competitor,New Business,IT Services,Enterprise,India,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-31
+O00459,A0570,R008,2025-03-04,Closed Won,9353,1.0,2025-05-07,Closed Won,,New Business,Education,SMB,Singapore,Dev Malhotra,Mid-Market,9353.0,0,1,0,2025-07-18
+O00460,A0303,R006,2025-04-06,Proposal,20998,0.6,,Open,,Expansion,Manufacturing,Mid-Market,India,Arjun Nair,Enterprise,12598.8,1,0,0,2025-08-25
+O00461,A0694,R001,2025-03-17,Negotiation,29050,0.8,,Open,,Expansion,Financial Services,SMB,India,Aditi Rao,Enterprise,23240.0,1,0,0,2025-07-21
+O00462,A0017,R007,2025-01-23,Closed Lost,12191,0.0,2025-02-10,Closed Lost,No decision,New Business,Healthcare,SMB,United Kingdom,Ishita Sen,SMB,0.0,0,0,1,2025-06-02
+O00463,A0269,R001,2025-08-03,Proposal,8758,0.6,,Open,,Expansion,Retail,SMB,India,Aditi Rao,Enterprise,5254.8,1,0,0,2025-12-26
+O00464,A0270,R008,2025-07-24,Demo,39638,0.4,,Open,,Expansion,Retail,Mid-Market,India,Dev Malhotra,Mid-Market,15855.2,1,0,0,2025-12-20
+O00465,A0043,R001,2025-05-12,Demo,90317,0.4,,Open,,Expansion,Education,Enterprise,Singapore,Aditi Rao,Enterprise,36126.8,1,0,0,2025-10-06
+O00466,A0447,R007,2025-05-13,Closed Won,86008,1.0,2025-06-14,Closed Won,,Expansion,Financial Services,Enterprise,India,Ishita Sen,SMB,86008.0,0,1,0,2025-10-01
+O00467,A0338,R006,2025-08-09,Discovery,15820,0.2,,Open,,Expansion,Financial Services,SMB,United States,Arjun Nair,Enterprise,3164.0,1,0,0,2025-09-28
+O00468,A0544,R008,2025-07-15,Closed Lost,16874,0.0,2025-10-27,Closed Lost,Timing,New Business,Healthcare,SMB,Singapore,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-09
+O00469,A0076,R004,2025-07-19,Qualification,28354,0.1,,Open,,New Business,Financial Services,Mid-Market,India,Rohan Das,SMB,2835.4,1,0,0,2025-11-08
+O00470,A0142,R001,2025-02-15,Proposal,73314,0.6,,Open,,New Business,Financial Services,Enterprise,Singapore,Aditi Rao,Enterprise,43988.4,1,0,0,2025-07-06
+O00471,A0570,R007,2025-01-05,Demo,10602,0.4,,Open,,Expansion,Education,SMB,Singapore,Ishita Sen,SMB,4240.8,1,0,0,2025-05-26
+O00472,A0682,R008,2025-02-10,Demo,5000,0.4,,Open,,New Business,Financial Services,SMB,Singapore,Dev Malhotra,Mid-Market,2000.0,1,0,0,2025-04-07
+O00473,A0522,R001,2025-04-17,Closed Lost,6068,0.0,2025-08-07,Closed Lost,Competitor,Expansion,Financial Services,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-08-19
+O00474,A0252,R003,2025-10-19,Closed Lost,66593,0.0,2025-11-12,Closed Lost,Timing,New Business,IT Services,Mid-Market,United States,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00475,A0266,R008,2025-10-16,Negotiation,199160,0.8,,Open,,New Business,Manufacturing,Enterprise,Singapore,Dev Malhotra,Mid-Market,159328.0,1,0,0,2025-12-31
+O00476,A0316,R008,2025-03-07,Demo,32183,0.4,,Open,,New Business,Healthcare,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,12873.2,1,0,0,2025-07-23
+O00477,A0419,R008,2025-04-21,Proposal,15554,0.6,,Open,,Expansion,Healthcare,SMB,United Kingdom,Dev Malhotra,Mid-Market,9332.4,1,0,0,2025-08-13
+O00478,A0227,R003,2025-12-03,Demo,13804,0.4,,Open,,Expansion,Retail,SMB,India,Neha Iyer,Mid-Market,5521.6,1,0,0,2025-12-31
+O00479,A0523,R007,2025-11-17,Closed Lost,47961,0.0,2025-12-31,Closed Lost,Missing feature,Expansion,Education,SMB,United Kingdom,Ishita Sen,SMB,0.0,0,0,1,2025-12-31
+O00480,A0390,R003,2025-10-31,Discovery,19860,0.2,,Open,,New Business,Financial Services,SMB,United States,Neha Iyer,Mid-Market,3972.0,1,0,0,2025-12-31
+O00481,A0163,R003,2025-10-02,Proposal,11328,0.6,,Open,,New Business,IT Services,SMB,Singapore,Neha Iyer,Mid-Market,6796.8,1,0,0,2025-12-31
+O00482,A0540,R004,2025-03-20,Closed Won,7806,1.0,2025-05-05,Closed Won,,New Business,Education,SMB,India,Rohan Das,SMB,7806.0,0,1,0,2025-05-04
+O00483,A0448,R006,2025-08-07,Closed Lost,17472,0.0,2025-09-29,Closed Lost,Missing feature,Expansion,Manufacturing,Mid-Market,United Kingdom,Arjun Nair,Enterprise,0.0,0,0,1,2025-11-09
+O00484,A0420,R008,2025-09-15,Closed Won,13150,1.0,2025-11-25,Closed Won,,Expansion,Education,SMB,India,Dev Malhotra,Mid-Market,13150.0,0,1,0,2025-12-31
+O00485,A0332,R004,2025-09-03,Proposal,25614,0.6,,Open,,Expansion,Manufacturing,Mid-Market,India,Rohan Das,SMB,15368.4,1,0,0,2025-12-31
+O00486,A0589,R008,2025-06-21,Closed Won,6327,1.0,2025-08-09,Closed Won,,Expansion,Education,SMB,India,Dev Malhotra,Mid-Market,6327.0,0,1,0,2025-08-31
+O00487,A0652,R004,2025-02-11,Discovery,8970,0.2,,Open,,Expansion,Manufacturing,SMB,Singapore,Rohan Das,SMB,1794.0,1,0,0,2025-07-04
+O00488,A0338,R003,2025-09-15,Demo,7375,0.4,,Open,,Expansion,Financial Services,SMB,United States,Neha Iyer,Mid-Market,2950.0,1,0,0,2025-12-31
+O00489,A0284,R002,2025-02-02,Discovery,76917,0.2,,Open,,Expansion,Retail,Mid-Market,United Kingdom,Kabir Mehta,SMB,15383.400000000001,1,0,0,2025-06-30
+O00490,A0161,R007,2025-08-16,Closed Lost,17843,0.0,2025-09-15,Closed Lost,Price,Expansion,Retail,SMB,United States,Ishita Sen,SMB,0.0,0,0,1,2025-11-30
+O00491,A0435,R005,2025-06-21,Closed Won,11957,1.0,2025-09-27,Closed Won,,Expansion,Manufacturing,SMB,Singapore,Maya Shah,Mid-Market,11957.0,0,1,0,2025-10-18
+O00492,A0365,R006,2025-02-06,Proposal,70069,0.6,,Open,,Expansion,Education,Mid-Market,United Kingdom,Arjun Nair,Enterprise,42041.4,1,0,0,2025-06-23
+O00493,A0319,R002,2025-11-10,Closed Lost,98365,0.0,2025-12-31,Closed Lost,Timing,Expansion,Retail,Enterprise,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00494,A0244,R001,2025-01-26,Discovery,24433,0.2,,Open,,New Business,Retail,Mid-Market,United States,Aditi Rao,Enterprise,4886.6,1,0,0,2025-06-04
+O00495,A0063,R002,2025-07-22,Proposal,23814,0.6,,Open,,New Business,Financial Services,SMB,Singapore,Kabir Mehta,SMB,14288.4,1,0,0,2025-12-17
+O00496,A0336,R008,2025-11-30,Qualification,15293,0.1,,Open,,Expansion,Retail,SMB,United States,Dev Malhotra,Mid-Market,1529.3000000000002,1,0,0,2025-12-31
+O00497,A0149,R003,2025-09-26,Closed Lost,7524,0.0,2025-12-19,Closed Lost,No decision,Expansion,IT Services,SMB,United Kingdom,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00498,A0679,R003,2025-09-03,Closed Lost,11014,0.0,2025-11-27,Closed Lost,Price,Expansion,Retail,SMB,United Kingdom,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00499,A0447,R001,2025-02-12,Proposal,64061,0.6,,Open,,New Business,Financial Services,Enterprise,India,Aditi Rao,Enterprise,38436.6,1,0,0,2025-07-03
+O00500,A0282,R001,2025-04-15,Closed Won,6440,1.0,2025-06-12,Closed Won,,New Business,Healthcare,SMB,Singapore,Aditi Rao,Enterprise,6440.0,0,1,0,2025-06-02
+O00501,A0074,R006,2025-04-23,Closed Lost,18204,0.0,2025-06-07,Closed Lost,Competitor,Expansion,Healthcare,SMB,United Kingdom,Arjun Nair,Enterprise,0.0,0,0,1,2025-09-05
+O00502,A0410,R008,2025-02-23,Discovery,85008,0.2,,Open,,Expansion,Healthcare,Mid-Market,United States,Dev Malhotra,Mid-Market,17001.600000000002,1,0,0,2025-07-13
+O00503,A0427,R001,2025-06-26,Closed Won,6395,1.0,2025-08-04,Closed Won,,Expansion,Retail,SMB,United States,Aditi Rao,Enterprise,6395.0,0,1,0,2025-11-15
+O00504,A0042,R007,2025-09-06,Negotiation,122390,0.8,,Open,,Expansion,Financial Services,Enterprise,United States,Ishita Sen,SMB,97912.0,1,0,0,2025-12-31
+O00505,A0649,R003,2025-09-11,Closed Won,8954,1.0,2025-12-20,Closed Won,,Expansion,Financial Services,SMB,India,Neha Iyer,Mid-Market,8954.0,0,1,0,2025-12-31
+O00506,A0212,R007,2025-06-03,Qualification,9637,0.1,,Open,,New Business,Education,SMB,India,Ishita Sen,SMB,963.7,1,0,0,2025-09-23
+O00507,A0544,R006,2025-07-29,Closed Lost,9191,0.0,2025-11-01,Closed Lost,No decision,Expansion,Healthcare,SMB,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-21
+O00508,A0044,R003,2025-02-13,Negotiation,24403,0.8,,Open,,Expansion,Education,Mid-Market,United States,Neha Iyer,Mid-Market,19522.4,1,0,0,2025-06-16
+O00509,A0665,R004,2025-10-13,Closed Won,12264,1.0,2025-11-04,Closed Won,,Expansion,Manufacturing,SMB,United Kingdom,Rohan Das,SMB,12264.0,0,1,0,2025-12-31
+O00510,A0465,R006,2025-06-13,Closed Lost,24768,0.0,2025-07-09,Closed Lost,No decision,Expansion,Financial Services,Mid-Market,India,Arjun Nair,Enterprise,0.0,0,0,1,2025-10-17
+O00511,A0187,R007,2025-05-14,Closed Won,40659,1.0,2025-08-19,Closed Won,,Expansion,IT Services,Mid-Market,United States,Ishita Sen,SMB,40659.0,0,1,0,2025-10-03
+O00512,A0408,R008,2025-11-25,Closed Lost,92876,0.0,2025-12-31,Closed Lost,Missing feature,New Business,Financial Services,Enterprise,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00513,A0457,R001,2025-09-04,Qualification,85314,0.1,,Open,,New Business,Retail,Enterprise,United Kingdom,Aditi Rao,Enterprise,8531.4,1,0,0,2025-12-31
+O00514,A0622,R002,2025-08-22,Closed Lost,63147,0.0,2025-10-23,Closed Lost,Price,New Business,Education,Enterprise,India,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00515,A0587,R005,2025-06-03,Closed Won,27770,1.0,2025-08-01,Closed Won,,New Business,Education,Mid-Market,India,Maya Shah,Mid-Market,27770.0,0,1,0,2025-09-21
+O00516,A0348,R004,2025-02-21,Closed Lost,16858,0.0,2025-04-12,Closed Lost,Timing,New Business,Healthcare,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-07-21
+O00517,A0533,R004,2025-09-22,Discovery,119019,0.2,,Open,,Expansion,Retail,Enterprise,United States,Rohan Das,SMB,23803.800000000003,1,0,0,2025-10-30
+O00518,A0279,R008,2025-08-16,Closed Lost,61189,0.0,2025-10-18,Closed Lost,Competitor,New Business,Financial Services,Enterprise,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00519,A0493,R001,2025-07-05,Closed Lost,12548,0.0,2025-10-20,Closed Lost,Timing,Expansion,Education,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-07-29
+O00520,A0665,R004,2025-11-23,Discovery,16827,0.2,,Open,,Expansion,Manufacturing,SMB,United Kingdom,Rohan Das,SMB,3365.4,1,0,0,2025-12-10
+O00521,A0550,R008,2025-12-03,Closed Lost,5661,0.0,2025-12-31,Closed Lost,Missing feature,New Business,Education,SMB,Singapore,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00522,A0145,R001,2025-10-26,Closed Won,15323,1.0,2025-12-31,Closed Won,,New Business,Financial Services,SMB,Singapore,Aditi Rao,Enterprise,15323.0,0,1,0,2025-12-31
+O00523,A0499,R007,2025-05-04,Closed Lost,8906,0.0,2025-06-02,Closed Lost,Competitor,New Business,Education,SMB,United Kingdom,Ishita Sen,SMB,0.0,0,0,1,2025-08-30
+O00524,A0369,R008,2025-08-27,Closed Won,15512,1.0,2025-09-22,Closed Won,,New Business,Financial Services,SMB,India,Dev Malhotra,Mid-Market,15512.0,0,1,0,2025-12-31
+O00525,A0113,R002,2025-06-20,Demo,8511,0.4,,Open,,New Business,Education,SMB,Singapore,Kabir Mehta,SMB,3404.4,1,0,0,2025-10-18
+O00526,A0295,R005,2025-05-04,Proposal,15979,0.6,,Open,,Expansion,IT Services,Mid-Market,United States,Maya Shah,Mid-Market,9587.4,1,0,0,2025-09-06
+O00527,A0550,R008,2025-03-10,Closed Won,5769,1.0,2025-05-15,Closed Won,,Expansion,Education,SMB,Singapore,Dev Malhotra,Mid-Market,5769.0,0,1,0,2025-05-31
+O00528,A0513,R006,2025-07-25,Closed Won,12262,1.0,2025-09-11,Closed Won,,Expansion,Education,SMB,Singapore,Arjun Nair,Enterprise,12262.0,0,1,0,2025-11-26
+O00529,A0277,R008,2025-06-08,Closed Won,13487,1.0,2025-09-04,Closed Won,,Expansion,Manufacturing,SMB,United Kingdom,Dev Malhotra,Mid-Market,13487.0,0,1,0,2025-07-07
+O00530,A0665,R006,2025-08-28,Closed Won,7988,1.0,2025-12-11,Closed Won,,Expansion,Manufacturing,SMB,United Kingdom,Arjun Nair,Enterprise,7988.0,0,1,0,2025-12-31
+O00531,A0156,R004,2025-03-16,Closed Lost,47984,0.0,2025-05-17,Closed Lost,Competitor,New Business,IT Services,Mid-Market,United States,Rohan Das,SMB,0.0,0,0,1,2025-08-11
+O00532,A0691,R006,2025-09-06,Discovery,5681,0.2,,Open,,Expansion,IT Services,SMB,United Kingdom,Arjun Nair,Enterprise,1136.2,1,0,0,2025-12-31
+O00533,A0371,R002,2025-12-01,Closed Lost,11648,0.0,2025-12-21,Closed Lost,No decision,Expansion,Education,SMB,Singapore,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00534,A0644,R002,2025-04-10,Closed Lost,55087,0.0,2025-05-25,Closed Lost,No decision,Expansion,IT Services,Enterprise,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-06-29
+O00535,A0455,R001,2025-06-03,Closed Won,8949,1.0,2025-07-06,Closed Won,,Expansion,IT Services,SMB,India,Aditi Rao,Enterprise,8949.0,0,1,0,2025-10-21
+O00536,A0411,R008,2025-11-21,Discovery,97048,0.2,,Open,,Expansion,Healthcare,Enterprise,Singapore,Dev Malhotra,Mid-Market,19409.600000000002,1,0,0,2025-12-31
+O00537,A0686,R008,2025-05-06,Qualification,24442,0.1,,Open,,Expansion,Manufacturing,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,2444.2000000000003,1,0,0,2025-06-12
+O00538,A0328,R006,2025-01-22,Closed Lost,30279,0.0,2025-03-05,Closed Lost,Missing feature,Expansion,Healthcare,Mid-Market,United Kingdom,Arjun Nair,Enterprise,0.0,0,0,1,2025-05-28
+O00539,A0382,R007,2025-01-19,Closed Won,56619,1.0,2025-02-11,Closed Won,,New Business,Healthcare,Mid-Market,United States,Ishita Sen,SMB,56619.0,0,1,0,2025-05-27
+O00540,A0624,R007,2025-02-21,Closed Won,27768,1.0,2025-05-10,Closed Won,,Expansion,IT Services,Mid-Market,Singapore,Ishita Sen,SMB,27768.0,0,1,0,2025-07-05
+O00541,A0631,R001,2025-12-04,Proposal,138370,0.6,,Open,,Expansion,IT Services,Enterprise,United States,Aditi Rao,Enterprise,83022.0,1,0,0,2025-12-31
+O00542,A0037,R007,2025-08-24,Demo,21653,0.4,,Open,,New Business,Healthcare,Mid-Market,India,Ishita Sen,SMB,8661.2,1,0,0,2025-11-11
+O00543,A0501,R007,2025-11-02,Closed Won,45692,1.0,2025-12-31,Closed Won,,Expansion,Retail,Mid-Market,United States,Ishita Sen,SMB,45692.0,0,1,0,2025-12-31
+O00544,A0322,R002,2025-07-23,Qualification,22956,0.1,,Open,,Expansion,Financial Services,SMB,United Kingdom,Kabir Mehta,SMB,2295.6,1,0,0,2025-12-17
+O00545,A0593,R004,2025-12-07,Closed Lost,5000,0.0,2025-12-31,Closed Lost,Timing,Expansion,Healthcare,SMB,United States,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00546,A0456,R007,2025-05-08,Closed Lost,66371,0.0,2025-06-17,Closed Lost,Missing feature,Expansion,Manufacturing,Enterprise,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-08-29
+O00547,A0246,R006,2025-07-02,Demo,15558,0.4,,Open,,New Business,Financial Services,SMB,Singapore,Arjun Nair,Enterprise,6223.200000000001,1,0,0,2025-11-03
+O00548,A0501,R001,2025-08-21,Closed Won,32856,1.0,2025-11-17,Closed Won,,New Business,Retail,Mid-Market,United States,Aditi Rao,Enterprise,32856.0,0,1,0,2025-12-23
+O00549,A0277,R002,2025-04-20,Closed Won,14181,1.0,2025-06-23,Closed Won,,New Business,Manufacturing,SMB,United Kingdom,Kabir Mehta,SMB,14181.0,0,1,0,2025-08-18
+O00550,A0199,R001,2025-02-08,Closed Won,9144,1.0,2025-03-06,Closed Won,,Expansion,Education,SMB,India,Aditi Rao,Enterprise,9144.0,0,1,0,2025-06-25
+O00551,A0318,R003,2025-09-10,Negotiation,12476,0.8,,Open,,New Business,Education,SMB,India,Neha Iyer,Mid-Market,9980.800000000001,1,0,0,2025-12-31
+O00552,A0443,R007,2025-04-26,Closed Lost,33564,0.0,2025-08-10,Closed Lost,Timing,Expansion,Retail,Mid-Market,United Kingdom,Ishita Sen,SMB,0.0,0,0,1,2025-08-13
+O00553,A0453,R002,2025-05-18,Closed Lost,60887,0.0,2025-06-04,Closed Lost,No decision,New Business,Healthcare,Mid-Market,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-09-27
+O00554,A0681,R001,2025-08-22,Discovery,13455,0.2,,Open,,Expansion,Healthcare,SMB,United States,Aditi Rao,Enterprise,2691.0,1,0,0,2025-12-31
+O00555,A0644,R007,2025-07-06,Qualification,110586,0.1,,Open,,New Business,IT Services,Enterprise,United States,Ishita Sen,SMB,11058.6,1,0,0,2025-11-29
+O00556,A0526,R003,2025-06-25,Closed Won,29909,1.0,2025-10-08,Closed Won,,Expansion,IT Services,Mid-Market,Singapore,Neha Iyer,Mid-Market,29909.0,0,1,0,2025-11-15
+O00557,A0243,R008,2025-10-30,Proposal,28907,0.6,,Open,,New Business,Healthcare,Mid-Market,Singapore,Dev Malhotra,Mid-Market,17344.2,1,0,0,2025-12-31
+O00558,A0145,R007,2025-08-08,Qualification,9877,0.1,,Open,,New Business,Financial Services,SMB,Singapore,Ishita Sen,SMB,987.7,1,0,0,2025-12-30
+O00559,A0689,R003,2025-04-11,Qualification,14330,0.1,,Open,,Expansion,Manufacturing,SMB,United States,Neha Iyer,Mid-Market,1433.0,1,0,0,2025-09-01
+O00560,A0642,R003,2025-06-15,Proposal,78604,0.6,,Open,,New Business,IT Services,Enterprise,United Kingdom,Neha Iyer,Mid-Market,47162.4,1,0,0,2025-11-06
+O00561,A0111,R008,2025-11-25,Closed Lost,13671,0.0,2025-12-31,Closed Lost,No decision,Expansion,Financial Services,SMB,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00562,A0634,R005,2025-07-21,Proposal,30533,0.6,,Open,,Expansion,Financial Services,SMB,United States,Maya Shah,Mid-Market,18319.8,1,0,0,2025-12-09
+O00563,A0271,R005,2025-07-13,Proposal,17759,0.6,,Open,,New Business,Retail,SMB,United Kingdom,Maya Shah,Mid-Market,10655.4,1,0,0,2025-11-24
+O00564,A0384,R006,2025-05-24,Closed Lost,82036,0.0,2025-06-17,Closed Lost,Price,New Business,Healthcare,Enterprise,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-10-16
+O00565,A0546,R006,2025-02-13,Closed Won,20603,1.0,2025-05-01,Closed Won,,New Business,Healthcare,SMB,Singapore,Arjun Nair,Enterprise,20603.0,0,1,0,2025-05-22
+O00566,A0524,R001,2025-06-23,Closed Won,9986,1.0,2025-08-08,Closed Won,,New Business,Retail,SMB,Singapore,Aditi Rao,Enterprise,9986.0,0,1,0,2025-10-19
+O00567,A0608,R004,2025-08-16,Proposal,14387,0.6,,Open,,Expansion,Retail,Mid-Market,United States,Rohan Das,SMB,8632.199999999999,1,0,0,2025-09-28
+O00568,A0103,R005,2025-09-12,Discovery,60354,0.2,,Open,,New Business,Healthcare,Enterprise,United Kingdom,Maya Shah,Mid-Market,12070.800000000001,1,0,0,2025-12-31
+O00569,A0170,R001,2025-02-08,Closed Won,5170,1.0,2025-05-05,Closed Won,,New Business,IT Services,SMB,Singapore,Aditi Rao,Enterprise,5170.0,0,1,0,2025-07-05
+O00570,A0204,R004,2025-06-15,Closed Won,30733,1.0,2025-07-12,Closed Won,,New Business,IT Services,Mid-Market,United Kingdom,Rohan Das,SMB,30733.0,0,1,0,2025-11-03
+O00571,A0114,R003,2025-08-15,Closed Won,36299,1.0,2025-09-30,Closed Won,,Expansion,Financial Services,Mid-Market,United States,Neha Iyer,Mid-Market,36299.0,0,1,0,2025-12-19
+O00572,A0012,R004,2025-01-01,Closed Lost,25515,0.0,2025-05-08,Closed Lost,Missing feature,Expansion,Education,SMB,Singapore,Rohan Das,SMB,0.0,0,0,1,2025-05-29
+O00573,A0480,R008,2025-01-24,Qualification,13901,0.1,,Open,,Expansion,Retail,SMB,United Kingdom,Dev Malhotra,Mid-Market,1390.1000000000001,1,0,0,2025-05-22
+O00574,A0678,R008,2025-08-11,Closed Won,10873,1.0,2025-11-08,Closed Won,,New Business,Education,SMB,India,Dev Malhotra,Mid-Market,10873.0,0,1,0,2025-12-11
+O00575,A0477,R007,2025-03-15,Discovery,52287,0.2,,Open,,Expansion,IT Services,Mid-Market,India,Ishita Sen,SMB,10457.400000000001,1,0,0,2025-06-29
+O00576,A0432,R008,2025-02-03,Discovery,35123,0.2,,Open,,New Business,Healthcare,Enterprise,India,Dev Malhotra,Mid-Market,7024.6,1,0,0,2025-06-29
+O00577,A0511,R003,2025-01-22,Closed Lost,13342,0.0,2025-04-14,Closed Lost,Timing,Expansion,Education,SMB,India,Neha Iyer,Mid-Market,0.0,0,0,1,2025-06-16
+O00578,A0575,R001,2025-12-03,Closed Lost,16975,0.0,2025-12-31,Closed Lost,Missing feature,New Business,IT Services,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-12-31
+O00579,A0046,R004,2025-03-24,Closed Lost,6169,0.0,2025-05-16,Closed Lost,Competitor,Expansion,Education,SMB,United States,Rohan Das,SMB,0.0,0,0,1,2025-08-08
+O00580,A0263,R007,2025-08-28,Closed Lost,60232,0.0,2025-11-26,Closed Lost,Timing,New Business,Retail,Mid-Market,India,Ishita Sen,SMB,0.0,0,0,1,2025-11-19
+O00581,A0411,R001,2025-06-15,Proposal,110630,0.6,,Open,,New Business,Healthcare,Enterprise,Singapore,Aditi Rao,Enterprise,66378.0,1,0,0,2025-09-27
+O00582,A0624,R001,2025-07-18,Discovery,29863,0.2,,Open,,New Business,IT Services,Mid-Market,Singapore,Aditi Rao,Enterprise,5972.6,1,0,0,2025-10-19
+O00583,A0579,R008,2025-11-27,Closed Won,15953,1.0,2025-12-31,Closed Won,,New Business,Healthcare,SMB,Singapore,Dev Malhotra,Mid-Market,15953.0,0,1,0,2025-12-31
+O00584,A0345,R002,2025-11-02,Closed Lost,33338,0.0,2025-11-23,Closed Lost,Price,New Business,Retail,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00585,A0383,R002,2025-04-07,Closed Lost,39070,0.0,2025-06-30,Closed Lost,No decision,Expansion,IT Services,Mid-Market,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-05-18
+O00586,A0476,R001,2025-08-25,Closed Won,40254,1.0,2025-09-29,Closed Won,,Expansion,Retail,Mid-Market,United Kingdom,Aditi Rao,Enterprise,40254.0,0,1,0,2025-12-25
+O00587,A0253,R002,2025-11-03,Closed Won,77259,1.0,2025-12-31,Closed Won,,New Business,Retail,Enterprise,United States,Kabir Mehta,SMB,77259.0,0,1,0,2025-12-31
+O00588,A0350,R003,2025-07-25,Qualification,24559,0.1,,Open,,New Business,Education,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,2455.9,1,0,0,2025-09-22
+O00589,A0434,R001,2025-10-09,Demo,52309,0.4,,Open,,Expansion,Financial Services,Mid-Market,Singapore,Aditi Rao,Enterprise,20923.600000000002,1,0,0,2025-12-31
+O00590,A0527,R001,2025-03-14,Negotiation,64627,0.8,,Open,,New Business,Healthcare,Enterprise,United States,Aditi Rao,Enterprise,51701.600000000006,1,0,0,2025-08-08
+O00591,A0204,R006,2025-10-07,Closed Won,37178,1.0,2025-12-30,Closed Won,,Expansion,IT Services,Mid-Market,United Kingdom,Arjun Nair,Enterprise,37178.0,0,1,0,2025-12-31
+O00592,A0197,R002,2025-01-03,Closed Lost,9679,0.0,2025-03-16,Closed Lost,No decision,Expansion,Financial Services,SMB,Singapore,Kabir Mehta,SMB,0.0,0,0,1,2025-05-12
+O00593,A0087,R008,2025-06-09,Closed Lost,14886,0.0,2025-07-26,Closed Lost,Missing feature,New Business,IT Services,SMB,United States,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-08-29
+O00594,A0354,R002,2025-01-14,Proposal,13944,0.6,,Open,,Expansion,Financial Services,SMB,Singapore,Kabir Mehta,SMB,8366.4,1,0,0,2025-06-10
+O00595,A0049,R002,2025-03-19,Discovery,151527,0.2,,Open,,New Business,IT Services,Enterprise,United Kingdom,Kabir Mehta,SMB,30305.4,1,0,0,2025-07-30
+O00596,A0586,R006,2025-07-08,Closed Lost,9539,0.0,2025-10-12,Closed Lost,Timing,Expansion,Manufacturing,SMB,India,Arjun Nair,Enterprise,0.0,0,0,1,2025-09-01
+O00597,A0580,R001,2025-04-23,Closed Lost,31883,0.0,2025-08-13,Closed Lost,Timing,Expansion,Manufacturing,Mid-Market,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-09-20
+O00598,A0103,R008,2025-09-10,Closed Won,61156,1.0,2025-12-01,Closed Won,,New Business,Healthcare,Enterprise,United Kingdom,Dev Malhotra,Mid-Market,61156.0,0,1,0,2025-12-17
+O00599,A0197,R001,2025-06-26,Closed Lost,9825,0.0,2025-09-06,Closed Lost,Price,Expansion,Financial Services,SMB,Singapore,Aditi Rao,Enterprise,0.0,0,0,1,2025-11-22
+O00600,A0076,R003,2025-05-10,Proposal,42661,0.6,,Open,,New Business,Financial Services,Mid-Market,India,Neha Iyer,Mid-Market,25596.6,1,0,0,2025-09-13
+O00601,A0338,R002,2025-07-20,Closed Won,16870,1.0,2025-09-07,Closed Won,,Expansion,Financial Services,SMB,United States,Kabir Mehta,SMB,16870.0,0,1,0,2025-12-09
+O00602,A0214,R004,2025-08-18,Closed Lost,23772,0.0,2025-10-05,Closed Lost,Price,Expansion,Healthcare,Mid-Market,United States,Rohan Das,SMB,0.0,0,0,1,2025-12-22
+O00603,A0414,R008,2025-08-26,Demo,53241,0.4,,Open,,New Business,Retail,Mid-Market,Singapore,Dev Malhotra,Mid-Market,21296.4,1,0,0,2025-12-24
+O00604,A0010,R007,2025-05-24,Closed Won,22085,1.0,2025-07-24,Closed Won,,Expansion,IT Services,SMB,United Kingdom,Ishita Sen,SMB,22085.0,0,1,0,2025-10-13
+O00605,A0693,R004,2025-02-10,Demo,14453,0.4,,Open,,New Business,Healthcare,SMB,United States,Rohan Das,SMB,5781.200000000001,1,0,0,2025-03-15
+O00606,A0046,R004,2025-04-26,Closed Won,27923,1.0,2025-07-29,Closed Won,,Expansion,Education,SMB,United States,Rohan Das,SMB,27923.0,0,1,0,2025-08-29
+O00607,A0463,R006,2025-09-13,Discovery,25414,0.2,,Open,,Expansion,Manufacturing,Mid-Market,India,Arjun Nair,Enterprise,5082.8,1,0,0,2025-12-31
+O00608,A0120,R001,2025-06-04,Closed Lost,20561,0.0,2025-10-11,Closed Lost,Timing,New Business,Financial Services,Mid-Market,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-10-27
+O00609,A0601,R005,2025-08-13,Discovery,5389,0.2,,Open,,New Business,Manufacturing,SMB,India,Maya Shah,Mid-Market,1077.8,1,0,0,2025-12-31
+O00610,A0555,R002,2025-06-26,Closed Lost,23526,0.0,2025-10-28,Closed Lost,Competitor,Expansion,Retail,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-10-15
+O00611,A0167,R008,2025-01-27,Closed Lost,16108,0.0,2025-05-21,Closed Lost,Timing,Expansion,Financial Services,SMB,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-06-26
+O00612,A0594,R005,2025-09-02,Closed Lost,11703,0.0,2025-10-02,Closed Lost,Price,New Business,Retail,SMB,Singapore,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-03
+O00613,A0053,R008,2025-10-22,Closed Lost,40833,0.0,2025-12-15,Closed Lost,Missing feature,Expansion,IT Services,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00614,A0297,R006,2025-08-03,Closed Lost,7231,0.0,2025-09-06,Closed Lost,Timing,Expansion,Retail,SMB,United Kingdom,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-14
+O00615,A0156,R003,2025-07-18,Discovery,108213,0.2,,Open,,Expansion,IT Services,Mid-Market,United States,Neha Iyer,Mid-Market,21642.600000000002,1,0,0,2025-11-03
+O00616,A0275,R001,2025-04-15,Demo,12718,0.4,,Open,,Expansion,Financial Services,SMB,United Kingdom,Aditi Rao,Enterprise,5087.200000000001,1,0,0,2025-08-13
+O00617,A0390,R006,2025-08-02,Closed Won,12605,1.0,2025-10-16,Closed Won,,Expansion,Financial Services,SMB,United States,Arjun Nair,Enterprise,12605.0,0,1,0,2025-09-08
+O00618,A0605,R003,2025-11-29,Discovery,131692,0.2,,Open,,New Business,Manufacturing,Enterprise,United Kingdom,Neha Iyer,Mid-Market,26338.4,1,0,0,2025-12-31
+O00619,A0532,R003,2025-07-29,Demo,44699,0.4,,Open,,Expansion,Retail,Mid-Market,United States,Neha Iyer,Mid-Market,17879.600000000002,1,0,0,2025-10-04
+O00620,A0452,R008,2025-08-13,Demo,13271,0.4,,Open,,New Business,Education,SMB,India,Dev Malhotra,Mid-Market,5308.400000000001,1,0,0,2025-12-03
+O00621,A0584,R007,2025-03-15,Closed Lost,66563,0.0,2025-06-01,Closed Lost,Missing feature,New Business,Manufacturing,Enterprise,India,Ishita Sen,SMB,0.0,0,0,1,2025-07-02
+O00622,A0455,R002,2025-02-13,Closed Won,14836,1.0,2025-04-30,Closed Won,,New Business,IT Services,SMB,India,Kabir Mehta,SMB,14836.0,0,1,0,2025-07-02
+O00623,A0367,R002,2025-03-08,Discovery,83967,0.2,,Open,,New Business,Financial Services,Mid-Market,United Kingdom,Kabir Mehta,SMB,16793.4,1,0,0,2025-07-27
+O00624,A0677,R001,2025-07-28,Closed Lost,21984,0.0,2025-12-05,Closed Lost,No decision,Expansion,Healthcare,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-11-13
+O00625,A0207,R003,2025-04-29,Closed Won,24577,1.0,2025-06-18,Closed Won,,New Business,Manufacturing,SMB,United States,Neha Iyer,Mid-Market,24577.0,0,1,0,2025-07-09
+O00626,A0147,R004,2025-11-12,Discovery,28601,0.2,,Open,,Expansion,Education,Mid-Market,India,Rohan Das,SMB,5720.200000000001,1,0,0,2025-12-31
+O00627,A0389,R001,2025-07-25,Negotiation,7687,0.8,,Open,,Expansion,Healthcare,SMB,United States,Aditi Rao,Enterprise,6149.6,1,0,0,2025-10-15
+O00628,A0580,R005,2025-04-27,Qualification,34018,0.1,,Open,,Expansion,Manufacturing,Mid-Market,United States,Maya Shah,Mid-Market,3401.8,1,0,0,2025-09-18
+O00629,A0671,R003,2025-04-08,Closed Lost,36914,0.0,2025-06-30,Closed Lost,Missing feature,Expansion,Healthcare,Mid-Market,Singapore,Neha Iyer,Mid-Market,0.0,0,0,1,2025-07-03
+O00630,A0144,R005,2025-02-16,Closed Won,19634,1.0,2025-04-20,Closed Won,,New Business,Manufacturing,SMB,Singapore,Maya Shah,Mid-Market,19634.0,0,1,0,2025-06-17
+O00631,A0494,R001,2025-01-17,Proposal,5602,0.6,,Open,,Expansion,Education,SMB,India,Aditi Rao,Enterprise,3361.2,1,0,0,2025-06-07
+O00632,A0260,R006,2025-05-28,Closed Lost,23883,0.0,2025-09-19,Closed Lost,Competitor,New Business,Retail,SMB,United States,Arjun Nair,Enterprise,0.0,0,0,1,2025-09-30
+O00633,A0110,R002,2025-10-24,Proposal,11176,0.6,,Open,,New Business,IT Services,SMB,United States,Kabir Mehta,SMB,6705.599999999999,1,0,0,2025-12-31
+O00634,A0263,R003,2025-07-05,Closed Lost,29708,0.0,2025-08-28,Closed Lost,No decision,New Business,Retail,Mid-Market,India,Neha Iyer,Mid-Market,0.0,0,0,1,2025-10-24
+O00635,A0332,R004,2025-08-16,Closed Lost,22829,0.0,2025-10-08,Closed Lost,No decision,Expansion,Manufacturing,Mid-Market,India,Rohan Das,SMB,0.0,0,0,1,2025-11-21
+O00636,A0342,R001,2025-09-03,Negotiation,5698,0.8,,Open,,Expansion,Education,SMB,United Kingdom,Aditi Rao,Enterprise,4558.400000000001,1,0,0,2025-11-20
+O00637,A0564,R008,2025-10-06,Closed Lost,52140,0.0,2025-12-31,Closed Lost,No decision,New Business,Financial Services,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00638,A0235,R003,2025-03-28,Closed Won,37207,1.0,2025-04-26,Closed Won,,Expansion,Education,Mid-Market,United States,Neha Iyer,Mid-Market,37207.0,0,1,0,2025-08-07
+O00639,A0036,R002,2025-11-15,Negotiation,20146,0.8,,Open,,Expansion,Healthcare,Mid-Market,United States,Kabir Mehta,SMB,16116.800000000001,1,0,0,2025-12-31
+O00640,A0425,R004,2025-10-31,Demo,20100,0.4,,Open,,Expansion,Retail,Mid-Market,United States,Rohan Das,SMB,8040.0,1,0,0,2025-12-31
+O00641,A0580,R008,2025-03-23,Demo,30951,0.4,,Open,,New Business,Manufacturing,Mid-Market,United States,Dev Malhotra,Mid-Market,12380.400000000001,1,0,0,2025-06-09
+O00642,A0079,R005,2025-03-22,Demo,25430,0.4,,Open,,Expansion,Healthcare,SMB,United Kingdom,Maya Shah,Mid-Market,10172.0,1,0,0,2025-08-03
+O00643,A0178,R002,2025-08-31,Demo,10676,0.4,,Open,,Expansion,IT Services,SMB,United States,Kabir Mehta,SMB,4270.400000000001,1,0,0,2025-12-14
+O00644,A0308,R002,2025-08-07,Closed Won,18303,1.0,2025-09-20,Closed Won,,New Business,Manufacturing,Mid-Market,India,Kabir Mehta,SMB,18303.0,0,1,0,2025-11-16
+O00645,A0555,R001,2025-08-30,Closed Won,10743,1.0,2025-10-30,Closed Won,,New Business,Retail,SMB,United States,Aditi Rao,Enterprise,10743.0,0,1,0,2025-10-30
+O00646,A0043,R003,2025-09-27,Closed Lost,84028,0.0,2025-11-24,Closed Lost,Price,New Business,Education,Enterprise,Singapore,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00647,A0022,R003,2025-03-23,Demo,5000,0.4,,Open,,New Business,Financial Services,SMB,United States,Neha Iyer,Mid-Market,2000.0,1,0,0,2025-08-20
+O00648,A0085,R008,2025-07-04,Closed Lost,11710,0.0,2025-08-22,Closed Lost,Price,Expansion,Financial Services,SMB,India,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-11-19
+O00649,A0283,R008,2025-11-14,Closed Won,32446,1.0,2025-12-31,Closed Won,,New Business,Healthcare,Mid-Market,Singapore,Dev Malhotra,Mid-Market,32446.0,0,1,0,2025-12-31
+O00650,A0057,R005,2025-07-27,Closed Lost,16415,0.0,2025-11-30,Closed Lost,Missing feature,Expansion,Manufacturing,SMB,Singapore,Maya Shah,Mid-Market,0.0,0,0,1,2025-10-13
+O00651,A0666,R001,2025-02-20,Closed Lost,27575,0.0,2025-04-27,Closed Lost,Timing,Expansion,Financial Services,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-06-08
+O00652,A0259,R005,2025-03-29,Discovery,19922,0.2,,Open,,Expansion,Manufacturing,SMB,Singapore,Maya Shah,Mid-Market,3984.4,1,0,0,2025-07-13
+O00653,A0057,R008,2025-10-01,Discovery,10632,0.2,,Open,,New Business,Manufacturing,SMB,Singapore,Dev Malhotra,Mid-Market,2126.4,1,0,0,2025-12-31
+O00654,A0207,R001,2025-10-21,Demo,7293,0.4,,Open,,Expansion,Manufacturing,SMB,United States,Aditi Rao,Enterprise,2917.2000000000003,1,0,0,2025-12-31
+O00655,A0146,R004,2025-10-12,Closed Won,302441,1.0,2025-12-31,Closed Won,,New Business,Financial Services,Enterprise,India,Rohan Das,SMB,302441.0,0,1,0,2025-12-31
+O00656,A0437,R001,2025-02-15,Discovery,12324,0.2,,Open,,New Business,IT Services,SMB,United States,Aditi Rao,Enterprise,2464.8,1,0,0,2025-07-07
+O00657,A0235,R003,2025-07-25,Closed Lost,36226,0.0,2025-09-12,Closed Lost,Timing,Expansion,Education,Mid-Market,United States,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-22
+O00658,A0513,R002,2025-11-14,Qualification,11870,0.1,,Open,,Expansion,Education,SMB,Singapore,Kabir Mehta,SMB,1187.0,1,0,0,2025-12-31
+O00659,A0046,R002,2025-10-17,Closed Lost,13118,0.0,2025-12-31,Closed Lost,Missing feature,New Business,Education,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00660,A0029,R003,2025-06-29,Closed Won,33735,1.0,2025-08-04,Closed Won,,New Business,Manufacturing,Mid-Market,Singapore,Neha Iyer,Mid-Market,33735.0,0,1,0,2025-10-25
+O00661,A0123,R003,2025-10-09,Discovery,9269,0.2,,Open,,New Business,Manufacturing,SMB,United States,Neha Iyer,Mid-Market,1853.8000000000002,1,0,0,2025-12-31
+O00662,A0233,R003,2025-10-17,Closed Lost,74276,0.0,2025-11-01,Closed Lost,Competitor,New Business,Financial Services,Enterprise,United States,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00663,A0489,R006,2025-09-16,Closed Won,93610,1.0,2025-10-19,Closed Won,,Expansion,Financial Services,Enterprise,Singapore,Arjun Nair,Enterprise,93610.0,0,1,0,2025-12-31
+O00664,A0549,R006,2025-06-15,Qualification,74391,0.1,,Open,,New Business,Education,Enterprise,Singapore,Arjun Nair,Enterprise,7439.1,1,0,0,2025-09-17
+O00665,A0619,R008,2025-02-12,Closed Lost,68930,0.0,2025-03-20,Closed Lost,Price,Expansion,Financial Services,Enterprise,Singapore,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-07-12
+O00666,A0343,R008,2025-06-04,Qualification,12588,0.1,,Open,,Expansion,Education,SMB,Singapore,Dev Malhotra,Mid-Market,1258.8000000000002,1,0,0,2025-10-26
+O00667,A0188,R005,2025-10-15,Proposal,84701,0.6,,Open,,Expansion,IT Services,Enterprise,United Kingdom,Maya Shah,Mid-Market,50820.6,1,0,0,2025-12-31
+O00668,A0163,R007,2025-03-08,Closed Lost,23610,0.0,2025-04-02,Closed Lost,Timing,New Business,IT Services,SMB,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-07-29
+O00669,A0072,R003,2025-06-03,Negotiation,10919,0.8,,Open,,Expansion,Retail,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,8735.2,1,0,0,2025-07-21
+O00670,A0461,R004,2025-11-27,Closed Lost,58832,0.0,2025-12-31,Closed Lost,Missing feature,Expansion,Manufacturing,Mid-Market,India,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00671,A0176,R005,2025-06-02,Closed Won,63070,1.0,2025-07-31,Closed Won,,New Business,Manufacturing,Mid-Market,Singapore,Maya Shah,Mid-Market,63070.0,0,1,0,2025-10-24
+O00672,A0645,R006,2025-06-05,Demo,5000,0.4,,Open,,Expansion,IT Services,SMB,United States,Arjun Nair,Enterprise,2000.0,1,0,0,2025-08-26
+O00673,A0169,R007,2025-07-05,Closed Lost,30855,0.0,2025-09-01,Closed Lost,Missing feature,Expansion,Retail,Mid-Market,United Kingdom,Ishita Sen,SMB,0.0,0,0,1,2025-11-16
+O00674,A0229,R001,2025-03-22,Demo,10152,0.4,,Open,,New Business,Education,SMB,Singapore,Aditi Rao,Enterprise,4060.8,1,0,0,2025-05-11
+O00675,A0277,R001,2025-11-25,Closed Lost,6369,0.0,2025-12-31,Closed Lost,Missing feature,Expansion,Manufacturing,SMB,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-12-31
+O00676,A0052,R001,2025-01-26,Qualification,25368,0.1,,Open,,New Business,Financial Services,Mid-Market,United States,Aditi Rao,Enterprise,2536.8,1,0,0,2025-06-11
+O00677,A0430,R006,2025-09-05,Closed Won,57634,1.0,2025-11-17,Closed Won,,New Business,Healthcare,Enterprise,Singapore,Arjun Nair,Enterprise,57634.0,0,1,0,2025-12-06
+O00678,A0295,R003,2025-07-27,Closed Lost,79205,0.0,2025-11-18,Closed Lost,No decision,New Business,IT Services,Mid-Market,United States,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-05
+O00679,A0375,R005,2025-11-01,Closed Won,54848,1.0,2025-11-25,Closed Won,,New Business,IT Services,Mid-Market,United Kingdom,Maya Shah,Mid-Market,54848.0,0,1,0,2025-12-31
+O00680,A0423,R004,2025-01-28,Qualification,63797,0.1,,Open,,Expansion,Healthcare,Mid-Market,United Kingdom,Rohan Das,SMB,6379.700000000001,1,0,0,2025-06-14
+O00681,A0645,R001,2025-02-21,Qualification,16604,0.1,,Open,,New Business,IT Services,SMB,United States,Aditi Rao,Enterprise,1660.4,1,0,0,2025-07-20
+O00682,A0112,R002,2025-08-24,Closed Won,21659,1.0,2025-10-06,Closed Won,,Expansion,Healthcare,Mid-Market,India,Kabir Mehta,SMB,21659.0,0,1,0,2025-12-31
+O00683,A0319,R002,2025-05-13,Closed Lost,75026,0.0,2025-09-15,Closed Lost,Competitor,Expansion,Retail,Enterprise,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-09-20
+O00684,A0586,R001,2025-01-06,Demo,14956,0.4,,Open,,New Business,Manufacturing,SMB,India,Aditi Rao,Enterprise,5982.400000000001,1,0,0,2025-05-30
+O00685,A0626,R004,2025-04-22,Demo,6923,0.4,,Open,,Expansion,Manufacturing,SMB,United Kingdom,Rohan Das,SMB,2769.2000000000003,1,0,0,2025-08-19
+O00686,A0460,R005,2025-03-25,Closed Won,16539,1.0,2025-06-21,Closed Won,,New Business,Education,SMB,United States,Maya Shah,Mid-Market,16539.0,0,1,0,2025-07-29
+O00687,A0663,R006,2025-11-12,Closed Lost,10769,0.0,2025-12-31,Closed Lost,Missing feature,Expansion,Healthcare,SMB,India,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-31
+O00688,A0085,R006,2025-05-08,Qualification,10137,0.1,,Open,,New Business,Financial Services,SMB,India,Arjun Nair,Enterprise,1013.7,1,0,0,2025-06-27
+O00689,A0171,R007,2025-03-25,Demo,49573,0.4,,Open,,New Business,Financial Services,Mid-Market,Singapore,Ishita Sen,SMB,19829.2,1,0,0,2025-07-13
+O00690,A0413,R006,2025-01-06,Closed Won,14655,1.0,2025-02-20,Closed Won,,New Business,IT Services,SMB,United States,Arjun Nair,Enterprise,14655.0,0,1,0,2025-05-20
+O00691,A0620,R001,2025-10-22,Closed Won,30602,1.0,2025-12-31,Closed Won,,New Business,Manufacturing,Mid-Market,United Kingdom,Aditi Rao,Enterprise,30602.0,0,1,0,2025-12-31
+O00692,A0443,R005,2025-08-21,Closed Lost,60655,0.0,2025-12-24,Closed Lost,Competitor,Expansion,Retail,Mid-Market,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-20
+O00693,A0150,R008,2025-09-15,Closed Lost,7377,0.0,2025-12-31,Closed Lost,Competitor,Expansion,Financial Services,SMB,Singapore,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-12-31
+O00694,A0267,R001,2025-05-26,Closed Won,15832,1.0,2025-07-16,Closed Won,,New Business,Manufacturing,SMB,United Kingdom,Aditi Rao,Enterprise,15832.0,0,1,0,2025-10-22
+O00695,A0411,R008,2025-11-03,Closed Won,124060,1.0,2025-12-31,Closed Won,,New Business,Healthcare,Enterprise,Singapore,Dev Malhotra,Mid-Market,124060.0,0,1,0,2025-12-31
+O00696,A0444,R008,2025-07-06,Discovery,31318,0.2,,Open,,New Business,Retail,Mid-Market,India,Dev Malhotra,Mid-Market,6263.6,1,0,0,2025-11-22
+O00697,A0637,R004,2025-06-06,Proposal,13896,0.6,,Open,,Expansion,Financial Services,SMB,Singapore,Rohan Das,SMB,8337.6,1,0,0,2025-10-21
+O00698,A0602,R001,2025-05-22,Closed Lost,6833,0.0,2025-07-03,Closed Lost,Timing,New Business,Healthcare,SMB,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-08-07
+O00699,A0356,R003,2025-09-20,Closed Lost,18187,0.0,2025-12-31,Closed Lost,No decision,Expansion,IT Services,SMB,India,Neha Iyer,Mid-Market,0.0,0,0,1,2025-12-31
+O00700,A0468,R004,2025-05-08,Proposal,33125,0.6,,Open,,New Business,Retail,Mid-Market,United States,Rohan Das,SMB,19875.0,1,0,0,2025-09-19
+O00701,A0227,R004,2025-01-11,Discovery,9484,0.2,,Open,,Expansion,Retail,SMB,India,Rohan Das,SMB,1896.8000000000002,1,0,0,2025-05-16
+O00702,A0255,R004,2025-01-26,Closed Won,57718,1.0,2025-03-16,Closed Won,,Expansion,Manufacturing,Mid-Market,India,Rohan Das,SMB,57718.0,0,1,0,2025-04-14
+O00703,A0318,R002,2025-04-02,Closed Won,8740,1.0,2025-06-21,Closed Won,,Expansion,Education,SMB,India,Kabir Mehta,SMB,8740.0,0,1,0,2025-08-28
+O00704,A0023,R006,2025-04-08,Demo,6366,0.4,,Open,,New Business,Retail,SMB,Singapore,Arjun Nair,Enterprise,2546.4,1,0,0,2025-09-02
+O00705,A0248,R004,2025-06-27,Closed Won,17868,1.0,2025-07-26,Closed Won,,Expansion,Financial Services,Mid-Market,United Kingdom,Rohan Das,SMB,17868.0,0,1,0,2025-11-07
+O00706,A0050,R003,2025-05-08,Discovery,15762,0.2,,Open,,New Business,Education,SMB,Singapore,Neha Iyer,Mid-Market,3152.4,1,0,0,2025-09-18
+O00707,A0500,R002,2025-07-07,Discovery,6744,0.2,,Open,,Expansion,Financial Services,SMB,United Kingdom,Kabir Mehta,SMB,1348.8000000000002,1,0,0,2025-11-17
+O00708,A0056,R005,2025-11-21,Qualification,79295,0.1,,Open,,New Business,Financial Services,Mid-Market,India,Maya Shah,Mid-Market,7929.5,1,0,0,2025-12-31
+O00709,A0156,R005,2025-06-24,Closed Lost,14106,0.0,2025-07-18,Closed Lost,Price,New Business,IT Services,Mid-Market,United States,Maya Shah,Mid-Market,0.0,0,0,1,2025-10-24
+O00710,A0381,R006,2025-02-14,Closed Won,25746,1.0,2025-04-04,Closed Won,,New Business,Healthcare,SMB,Singapore,Arjun Nair,Enterprise,25746.0,0,1,0,2025-06-12
+O00711,A0498,R002,2025-10-28,Closed Won,13195,1.0,2025-12-18,Closed Won,,Expansion,Healthcare,SMB,India,Kabir Mehta,SMB,13195.0,0,1,0,2025-12-31
+O00712,A0022,R006,2025-04-25,Discovery,11488,0.2,,Open,,Expansion,Financial Services,SMB,United States,Arjun Nair,Enterprise,2297.6,1,0,0,2025-09-10
+O00713,A0071,R008,2025-02-26,Closed Lost,9390,0.0,2025-05-15,Closed Lost,Competitor,Expansion,Education,SMB,India,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-04-23
+O00714,A0509,R002,2025-07-20,Closed Lost,43083,0.0,2025-09-02,Closed Lost,No decision,New Business,Education,Mid-Market,United Kingdom,Kabir Mehta,SMB,0.0,0,0,1,2025-12-01
+O00715,A0285,R007,2025-05-06,Closed Won,35395,1.0,2025-07-20,Closed Won,,New Business,Financial Services,Mid-Market,United Kingdom,Ishita Sen,SMB,35395.0,0,1,0,2025-09-01
+O00716,A0421,R003,2025-02-08,Proposal,19715,0.6,,Open,,Expansion,Healthcare,SMB,India,Neha Iyer,Mid-Market,11829.0,1,0,0,2025-02-11
+O00717,A0443,R004,2025-06-11,Closed Won,37898,1.0,2025-07-01,Closed Won,,Expansion,Retail,Mid-Market,United Kingdom,Rohan Das,SMB,37898.0,0,1,0,2025-10-19
+O00718,A0447,R002,2025-06-10,Closed Won,101647,1.0,2025-07-19,Closed Won,,New Business,Financial Services,Enterprise,India,Kabir Mehta,SMB,101647.0,0,1,0,2025-11-05
+O00719,A0322,R007,2025-09-14,Demo,10188,0.4,,Open,,Expansion,Financial Services,SMB,United Kingdom,Ishita Sen,SMB,4075.2000000000003,1,0,0,2025-12-31
+O00720,A0610,R008,2025-08-24,Discovery,35089,0.2,,Open,,New Business,Financial Services,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,7017.8,1,0,0,2025-09-29
+O00721,A0433,R001,2025-09-16,Closed Won,13782,1.0,2025-12-20,Closed Won,,New Business,Healthcare,SMB,United Kingdom,Aditi Rao,Enterprise,13782.0,0,1,0,2025-12-31
+O00722,A0112,R001,2025-02-10,Proposal,16675,0.6,,Open,,Expansion,Healthcare,Mid-Market,India,Aditi Rao,Enterprise,10005.0,1,0,0,2025-07-10
+O00723,A0099,R001,2025-04-21,Demo,6541,0.4,,Open,,New Business,Retail,SMB,India,Aditi Rao,Enterprise,2616.4,1,0,0,2025-08-29
+O00724,A0551,R004,2025-01-20,Closed Lost,16766,0.0,2025-05-29,Closed Lost,Missing feature,New Business,IT Services,SMB,United States,Rohan Das,SMB,0.0,0,0,1,2025-04-18
+O00725,A0396,R004,2025-10-12,Closed Lost,38877,0.0,2025-12-18,Closed Lost,Timing,Expansion,Healthcare,Mid-Market,United States,Rohan Das,SMB,0.0,0,0,1,2025-12-31
+O00726,A0549,R006,2025-02-15,Closed Lost,87451,0.0,2025-05-28,Closed Lost,Competitor,Expansion,Education,Enterprise,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-03-13
+O00727,A0611,R001,2025-06-29,Demo,12099,0.4,,Open,,Expansion,Healthcare,SMB,Singapore,Aditi Rao,Enterprise,4839.6,1,0,0,2025-10-30
+O00728,A0343,R007,2025-10-13,Closed Lost,14031,0.0,2025-11-17,Closed Lost,Missing feature,Expansion,Education,SMB,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-12-31
+O00729,A0181,R001,2025-01-07,Closed Lost,9412,0.0,2025-02-10,Closed Lost,Missing feature,New Business,Healthcare,SMB,Singapore,Aditi Rao,Enterprise,0.0,0,0,1,2025-05-24
+O00730,A0002,R002,2025-05-29,Closed Lost,8454,0.0,2025-09-01,Closed Lost,No decision,Expansion,Manufacturing,SMB,India,Kabir Mehta,SMB,0.0,0,0,1,2025-10-04
+O00731,A0216,R006,2025-08-04,Closed Lost,13105,0.0,2025-10-17,Closed Lost,Timing,New Business,Education,SMB,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-12
+O00732,A0030,R004,2025-01-26,Demo,7726,0.4,,Open,,Expansion,IT Services,SMB,Singapore,Rohan Das,SMB,3090.4,1,0,0,2025-05-15
+O00733,A0106,R005,2025-06-27,Demo,114158,0.4,,Open,,New Business,Education,Enterprise,United Kingdom,Maya Shah,Mid-Market,45663.200000000004,1,0,0,2025-11-21
+O00734,A0422,R008,2025-02-10,Closed Won,5577,1.0,2025-05-02,Closed Won,,Expansion,Financial Services,SMB,Singapore,Dev Malhotra,Mid-Market,5577.0,0,1,0,2025-06-23
+O00735,A0578,R001,2025-08-11,Closed Lost,57204,0.0,2025-10-30,Closed Lost,Missing feature,Expansion,IT Services,Mid-Market,United States,Aditi Rao,Enterprise,0.0,0,0,1,2025-12-31
+O00736,A0382,R002,2025-10-15,Closed Lost,44531,0.0,2025-12-31,Closed Lost,Price,New Business,Healthcare,Mid-Market,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00737,A0436,R005,2025-07-01,Closed Lost,13465,0.0,2025-08-29,Closed Lost,Timing,Expansion,Education,SMB,India,Maya Shah,Mid-Market,0.0,0,0,1,2025-11-15
+O00738,A0412,R004,2025-06-05,Closed Won,18673,1.0,2025-07-06,Closed Won,,New Business,Retail,SMB,India,Rohan Das,SMB,18673.0,0,1,0,2025-09-28
+O00739,A0641,R008,2025-04-18,Qualification,201007,0.1,,Open,,New Business,Manufacturing,Enterprise,Singapore,Dev Malhotra,Mid-Market,20100.7,1,0,0,2025-09-14
+O00740,A0138,R006,2025-09-28,Discovery,18941,0.2,,Open,,Expansion,IT Services,SMB,United Kingdom,Arjun Nair,Enterprise,3788.2000000000003,1,0,0,2025-12-31
+O00741,A0220,R004,2025-08-29,Demo,15723,0.4,,Open,,New Business,Financial Services,Mid-Market,India,Rohan Das,SMB,6289.200000000001,1,0,0,2025-10-07
+O00742,A0019,R004,2025-02-20,Closed Lost,6746,0.0,2025-06-03,Closed Lost,Timing,Expansion,Retail,SMB,United States,Rohan Das,SMB,0.0,0,0,1,2025-05-30
+O00743,A0111,R003,2025-08-01,Closed Won,9058,1.0,2025-09-26,Closed Won,,Expansion,Financial Services,SMB,United Kingdom,Neha Iyer,Mid-Market,9058.0,0,1,0,2025-12-05
+O00744,A0690,R003,2025-01-07,Qualification,12141,0.1,,Open,,New Business,Healthcare,SMB,United States,Neha Iyer,Mid-Market,1214.1000000000001,1,0,0,2025-05-24
+O00745,A0142,R006,2025-05-29,Closed Lost,119919,0.0,2025-06-16,Closed Lost,Price,Expansion,Financial Services,Enterprise,Singapore,Arjun Nair,Enterprise,0.0,0,0,1,2025-09-26
+O00746,A0303,R001,2025-09-17,Proposal,25969,0.6,,Open,,New Business,Manufacturing,Mid-Market,India,Aditi Rao,Enterprise,15581.4,1,0,0,2025-12-31
+O00747,A0582,R008,2025-07-25,Discovery,39156,0.2,,Open,,Expansion,Retail,Mid-Market,Singapore,Dev Malhotra,Mid-Market,7831.200000000001,1,0,0,2025-12-14
+O00748,A0139,R005,2025-07-13,Closed Won,8541,1.0,2025-08-29,Closed Won,,New Business,Financial Services,SMB,United States,Maya Shah,Mid-Market,8541.0,0,1,0,2025-12-07
+O00749,A0208,R005,2025-05-08,Closed Lost,27339,0.0,2025-08-29,Closed Lost,Price,New Business,Education,Mid-Market,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-09-17
+O00750,A0031,R002,2025-05-30,Closed Won,50444,1.0,2025-07-09,Closed Won,,Expansion,Healthcare,Enterprise,India,Kabir Mehta,SMB,50444.0,0,1,0,2025-10-17
+O00751,A0634,R004,2025-01-10,Closed Lost,7920,0.0,2025-04-26,Closed Lost,Competitor,New Business,Financial Services,SMB,United States,Rohan Das,SMB,0.0,0,0,1,2025-03-24
+O00752,A0449,R007,2025-06-10,Discovery,19594,0.2,,Open,,Expansion,Financial Services,Mid-Market,United States,Ishita Sen,SMB,3918.8,1,0,0,2025-11-02
+O00753,A0157,R008,2025-04-10,Closed Lost,7735,0.0,2025-06-30,Closed Lost,Timing,Expansion,Retail,SMB,United Kingdom,Dev Malhotra,Mid-Market,0.0,0,0,1,2025-09-07
+O00754,A0161,R003,2025-06-22,Closed Won,19279,1.0,2025-08-22,Closed Won,,Expansion,Retail,SMB,United States,Neha Iyer,Mid-Market,19279.0,0,1,0,2025-11-06
+O00755,A0058,R001,2025-03-26,Closed Won,7827,1.0,2025-04-19,Closed Won,,New Business,Financial Services,SMB,Singapore,Aditi Rao,Enterprise,7827.0,0,1,0,2025-07-23
+O00756,A0230,R005,2025-01-20,Closed Lost,310582,0.0,2025-05-10,Closed Lost,Missing feature,Expansion,Manufacturing,Enterprise,India,Maya Shah,Mid-Market,0.0,0,0,1,2025-05-09
+O00757,A0105,R003,2025-07-04,Closed Won,118613,1.0,2025-09-09,Closed Won,,New Business,IT Services,Enterprise,United Kingdom,Neha Iyer,Mid-Market,118613.0,0,1,0,2025-11-09
+O00758,A0269,R002,2025-09-22,Qualification,13040,0.1,,Open,,New Business,Retail,SMB,India,Kabir Mehta,SMB,1304.0,1,0,0,2025-12-31
+O00759,A0345,R002,2025-07-31,Closed Lost,8155,0.0,2025-08-20,Closed Lost,Timing,New Business,Retail,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-10-10
+O00760,A0185,R004,2025-10-24,Closed Won,49336,1.0,2025-12-31,Closed Won,,Expansion,Education,Mid-Market,India,Rohan Das,SMB,49336.0,0,1,0,2025-12-31
+O00761,A0283,R008,2025-11-22,Demo,27784,0.4,,Open,,Expansion,Healthcare,Mid-Market,Singapore,Dev Malhotra,Mid-Market,11113.6,1,0,0,2025-12-31
+O00762,A0199,R007,2025-02-12,Closed Lost,12677,0.0,2025-04-28,Closed Lost,Missing feature,Expansion,Education,SMB,India,Ishita Sen,SMB,0.0,0,0,1,2025-07-05
+O00763,A0565,R005,2025-06-05,Closed Lost,37975,0.0,2025-06-21,Closed Lost,No decision,New Business,Education,SMB,United States,Maya Shah,Mid-Market,0.0,0,0,1,2025-09-10
+O00764,A0266,R003,2025-05-09,Closed Lost,90980,0.0,2025-09-08,Closed Lost,Missing feature,New Business,Manufacturing,Enterprise,Singapore,Neha Iyer,Mid-Market,0.0,0,0,1,2025-10-02
+O00765,A0073,R004,2025-08-25,Closed Won,60382,1.0,2025-09-23,Closed Won,,Expansion,Manufacturing,Mid-Market,United Kingdom,Rohan Das,SMB,60382.0,0,1,0,2025-11-13
+O00766,A0376,R001,2025-04-26,Proposal,26234,0.6,,Open,,New Business,Education,Mid-Market,India,Aditi Rao,Enterprise,15740.4,1,0,0,2025-08-08
+O00767,A0546,R001,2025-03-20,Closed Lost,11812,0.0,2025-05-22,Closed Lost,Timing,New Business,Healthcare,SMB,Singapore,Aditi Rao,Enterprise,0.0,0,0,1,2025-06-13
+O00768,A0270,R002,2025-11-06,Demo,79868,0.4,,Open,,Expansion,Retail,Mid-Market,India,Kabir Mehta,SMB,31947.2,1,0,0,2025-12-31
+O00769,A0007,R007,2025-02-13,Closed Won,27150,1.0,2025-05-02,Closed Won,,New Business,Financial Services,Mid-Market,India,Ishita Sen,SMB,27150.0,0,1,0,2025-06-10
+O00770,A0514,R002,2025-02-22,Proposal,27126,0.6,,Open,,New Business,Retail,SMB,India,Kabir Mehta,SMB,16275.599999999999,1,0,0,2025-05-07
+O00771,A0323,R007,2025-12-03,Qualification,49501,0.1,,Open,,Expansion,Manufacturing,Mid-Market,Singapore,Ishita Sen,SMB,4950.1,1,0,0,2025-12-31
+O00772,A0498,R007,2025-10-14,Proposal,9316,0.6,,Open,,Expansion,Healthcare,SMB,India,Ishita Sen,SMB,5589.599999999999,1,0,0,2025-12-31
+O00773,A0065,R001,2025-04-23,Closed Won,15950,1.0,2025-06-17,Closed Won,,New Business,Manufacturing,SMB,India,Aditi Rao,Enterprise,15950.0,0,1,0,2025-05-26
+O00774,A0203,R002,2025-09-22,Closed Won,18588,1.0,2025-12-22,Closed Won,,New Business,IT Services,SMB,United Kingdom,Kabir Mehta,SMB,18588.0,0,1,0,2025-12-20
+O00775,A0320,R001,2025-06-25,Proposal,125674,0.6,,Open,,New Business,Financial Services,Enterprise,Singapore,Aditi Rao,Enterprise,75404.4,1,0,0,2025-11-12
+O00776,A0161,R006,2025-11-22,Closed Won,5919,1.0,2025-12-31,Closed Won,,New Business,Retail,SMB,United States,Arjun Nair,Enterprise,5919.0,0,1,0,2025-12-31
+O00777,A0318,R005,2025-08-19,Closed Won,8651,1.0,2025-10-24,Closed Won,,Expansion,Education,SMB,India,Maya Shah,Mid-Market,8651.0,0,1,0,2025-12-24
+O00778,A0002,R005,2025-01-25,Negotiation,10735,0.8,,Open,,Expansion,Manufacturing,SMB,India,Maya Shah,Mid-Market,8588.0,1,0,0,2025-06-01
+O00779,A0103,R005,2025-12-05,Demo,91870,0.4,,Open,,New Business,Healthcare,Enterprise,United Kingdom,Maya Shah,Mid-Market,36748.0,1,0,0,2025-12-31
+O00780,A0071,R001,2025-04-12,Closed Won,15866,1.0,2025-06-16,Closed Won,,Expansion,Education,SMB,India,Aditi Rao,Enterprise,15866.0,0,1,0,2025-09-06
+O00781,A0279,R006,2025-08-31,Closed Won,102908,1.0,2025-10-09,Closed Won,,Expansion,Financial Services,Enterprise,United Kingdom,Arjun Nair,Enterprise,102908.0,0,1,0,2025-12-31
+O00782,A0336,R008,2025-11-04,Closed Won,6579,1.0,2025-11-30,Closed Won,,Expansion,Retail,SMB,United States,Dev Malhotra,Mid-Market,6579.0,0,1,0,2025-12-17
+O00783,A0275,R001,2025-04-24,Closed Won,14239,1.0,2025-07-10,Closed Won,,Expansion,Financial Services,SMB,United Kingdom,Aditi Rao,Enterprise,14239.0,0,1,0,2025-09-03
+O00784,A0265,R008,2025-01-02,Discovery,47383,0.2,,Open,,New Business,Financial Services,Mid-Market,Singapore,Dev Malhotra,Mid-Market,9476.6,1,0,0,2025-05-11
+O00785,A0235,R007,2025-11-11,Closed Lost,46313,0.0,2025-12-19,Closed Lost,Missing feature,Expansion,Education,Mid-Market,United States,Ishita Sen,SMB,0.0,0,0,1,2025-12-31
+O00786,A0073,R001,2025-07-17,Closed Won,58549,1.0,2025-08-27,Closed Won,,Expansion,Manufacturing,Mid-Market,United Kingdom,Aditi Rao,Enterprise,58549.0,0,1,0,2025-11-20
+O00787,A0462,R006,2025-04-30,Proposal,52393,0.6,,Open,,New Business,Education,Mid-Market,Singapore,Arjun Nair,Enterprise,31435.8,1,0,0,2025-07-25
+O00788,A0357,R008,2025-07-23,Closed Won,44263,1.0,2025-11-07,Closed Won,,New Business,Financial Services,Mid-Market,India,Dev Malhotra,Mid-Market,44263.0,0,1,0,2025-12-19
+O00789,A0084,R001,2025-10-01,Demo,34881,0.4,,Open,,Expansion,Retail,Mid-Market,United Kingdom,Aditi Rao,Enterprise,13952.400000000001,1,0,0,2025-12-31
+O00790,A0417,R002,2025-03-26,Closed Lost,17048,0.0,2025-05-30,Closed Lost,Price,Expansion,IT Services,Mid-Market,Singapore,Kabir Mehta,SMB,0.0,0,0,1,2025-07-26
+O00791,A0296,R001,2025-02-01,Closed Lost,115261,0.0,2025-03-25,Closed Lost,Timing,Expansion,Financial Services,Enterprise,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-06-23
+O00792,A0476,R005,2025-10-15,Closed Lost,39526,0.0,2025-12-31,Closed Lost,Timing,Expansion,Retail,Mid-Market,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-11-27
+O00793,A0521,R005,2025-09-22,Closed Won,40679,1.0,2025-10-13,Closed Won,,New Business,Healthcare,Mid-Market,United Kingdom,Maya Shah,Mid-Market,40679.0,0,1,0,2025-12-31
+O00794,A0416,R002,2025-01-13,Negotiation,6755,0.8,,Open,,Expansion,Manufacturing,SMB,Singapore,Kabir Mehta,SMB,5404.0,1,0,0,2025-03-25
+O00795,A0480,R001,2025-02-06,Closed Lost,7377,0.0,2025-05-29,Closed Lost,No decision,Expansion,Retail,SMB,United Kingdom,Aditi Rao,Enterprise,0.0,0,0,1,2025-05-27
+O00796,A0321,R005,2025-11-01,Closed Won,19275,1.0,2025-12-16,Closed Won,,New Business,Financial Services,SMB,India,Maya Shah,Mid-Market,19275.0,0,1,0,2025-12-31
+O00797,A0455,R002,2025-02-26,Qualification,11788,0.1,,Open,,New Business,IT Services,SMB,India,Kabir Mehta,SMB,1178.8,1,0,0,2025-07-11
+O00798,A0588,R007,2025-01-27,Discovery,16306,0.2,,Open,,New Business,Retail,SMB,Singapore,Ishita Sen,SMB,3261.2000000000003,1,0,0,2025-01-30
+O00799,A0175,R002,2025-05-18,Closed Lost,12153,0.0,2025-06-13,Closed Lost,Competitor,Expansion,IT Services,SMB,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-09-19
+O00800,A0607,R007,2025-08-18,Closed Won,96280,1.0,2025-10-06,Closed Won,,New Business,Retail,Enterprise,Singapore,Ishita Sen,SMB,96280.0,0,1,0,2025-12-31
+O00801,A0682,R005,2025-12-06,Discovery,18304,0.2,,Open,,Expansion,Financial Services,SMB,Singapore,Maya Shah,Mid-Market,3660.8,1,0,0,2025-12-31
+O00802,A0384,R003,2025-04-28,Qualification,75313,0.1,,Open,,New Business,Healthcare,Enterprise,Singapore,Neha Iyer,Mid-Market,7531.3,1,0,0,2025-09-17
+O00803,A0217,R004,2025-07-04,Closed Won,12530,1.0,2025-07-24,Closed Won,,New Business,Financial Services,SMB,United Kingdom,Rohan Das,SMB,12530.0,0,1,0,2025-11-16
+O00804,A0319,R003,2025-07-16,Negotiation,77157,0.8,,Open,,New Business,Retail,Enterprise,United States,Neha Iyer,Mid-Market,61725.600000000006,1,0,0,2025-11-02
+O00805,A0396,R002,2025-11-11,Closed Lost,29606,0.0,2025-12-31,Closed Lost,Missing feature,New Business,Healthcare,Mid-Market,United States,Kabir Mehta,SMB,0.0,0,0,1,2025-12-31
+O00806,A0107,R008,2025-04-21,Proposal,31324,0.6,,Open,,Expansion,IT Services,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,18794.399999999998,1,0,0,2025-08-12
+O00807,A0159,R005,2025-09-17,Closed Lost,13261,0.0,2025-12-31,Closed Lost,No decision,New Business,Healthcare,SMB,India,Maya Shah,Mid-Market,0.0,0,0,1,2025-11-07
+O00808,A0574,R006,2025-09-27,Closed Lost,76587,0.0,2025-11-23,Closed Lost,No decision,New Business,IT Services,Enterprise,India,Arjun Nair,Enterprise,0.0,0,0,1,2025-12-31
+O00809,A0491,R007,2025-10-11,Closed Lost,21115,0.0,2025-11-06,Closed Lost,Competitor,New Business,Manufacturing,SMB,Singapore,Ishita Sen,SMB,0.0,0,0,1,2025-12-31
+O00810,A0248,R005,2025-10-23,Closed Won,24069,1.0,2025-11-27,Closed Won,,Expansion,Financial Services,Mid-Market,United Kingdom,Maya Shah,Mid-Market,24069.0,0,1,0,2025-12-31
+O00811,A0624,R007,2025-08-14,Demo,33096,0.4,,Open,,Expansion,IT Services,Mid-Market,Singapore,Ishita Sen,SMB,13238.400000000001,1,0,0,2025-12-24
+O00812,A0373,R002,2025-09-02,Proposal,29536,0.6,,Open,,Expansion,Education,Mid-Market,United Kingdom,Kabir Mehta,SMB,17721.6,1,0,0,2025-12-31
+O00813,A0623,R003,2025-03-02,Qualification,69038,0.1,,Open,,New Business,IT Services,Mid-Market,India,Neha Iyer,Mid-Market,6903.8,1,0,0,2025-06-26
+O00814,A0348,R001,2025-07-21,Demo,13109,0.4,,Open,,New Business,Healthcare,SMB,Singapore,Aditi Rao,Enterprise,5243.6,1,0,0,2025-10-16
+O00815,A0380,R005,2025-07-21,Closed Lost,19091,0.0,2025-08-31,Closed Lost,Timing,Expansion,Education,SMB,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-12-15
+O00816,A0016,R002,2025-06-01,Demo,6149,0.4,,Open,,Expansion,IT Services,SMB,Singapore,Kabir Mehta,SMB,2459.6000000000004,1,0,0,2025-08-19
+O00817,A0370,R008,2025-01-03,Discovery,13532,0.2,,Open,,New Business,Healthcare,SMB,India,Dev Malhotra,Mid-Market,2706.4,1,0,0,2025-05-11
+O00818,A0257,R003,2025-09-01,Negotiation,17907,0.8,,Open,,Expansion,Healthcare,SMB,United States,Neha Iyer,Mid-Market,14325.6,1,0,0,2025-12-23
+O00819,A0408,R003,2025-07-05,Closed Lost,98583,0.0,2025-10-05,Closed Lost,Price,Expansion,Financial Services,Enterprise,United Kingdom,Neha Iyer,Mid-Market,0.0,0,0,1,2025-10-22
+O00820,A0025,R003,2025-07-19,Qualification,58147,0.1,,Open,,New Business,Manufacturing,Mid-Market,United Kingdom,Neha Iyer,Mid-Market,5814.700000000001,1,0,0,2025-10-18
+O00821,A0114,R001,2025-02-12,Discovery,28523,0.2,,Open,,Expansion,Financial Services,Mid-Market,United States,Aditi Rao,Enterprise,5704.6,1,0,0,2025-05-07
+O00822,A0073,R008,2025-04-09,Proposal,67878,0.6,,Open,,New Business,Manufacturing,Mid-Market,United Kingdom,Dev Malhotra,Mid-Market,40726.799999999996,1,0,0,2025-08-31
+O00823,A0143,R002,2025-04-29,Closed Won,101293,1.0,2025-08-13,Closed Won,,New Business,Retail,Mid-Market,United States,Kabir Mehta,SMB,101293.0,0,1,0,2025-08-30
+O00824,A0671,R004,2025-09-29,Demo,30576,0.4,,Open,,Expansion,Healthcare,Mid-Market,Singapore,Rohan Das,SMB,12230.400000000001,1,0,0,2025-12-31
+O00825,A0587,R001,2025-10-15,Demo,29460,0.4,,Open,,New Business,Education,Mid-Market,India,Aditi Rao,Enterprise,11784.0,1,0,0,2025-11-10
+O00826,A0691,R004,2025-02-07,Closed Won,23079,1.0,2025-05-23,Closed Won,,Expansion,IT Services,SMB,United Kingdom,Rohan Das,SMB,23079.0,0,1,0,2025-06-18
+O00827,A0542,R002,2025-09-10,Negotiation,73282,0.8,,Open,,Expansion,Financial Services,Mid-Market,United States,Kabir Mehta,SMB,58625.600000000006,1,0,0,2025-12-31
+O00828,A0644,R004,2025-11-18,Proposal,75082,0.6,,Open,,Expansion,IT Services,Enterprise,United States,Rohan Das,SMB,45049.2,1,0,0,2025-12-31
+O00829,A0325,R007,2025-02-05,Qualification,29797,0.1,,Open,,New Business,IT Services,Mid-Market,United Kingdom,Ishita Sen,SMB,2979.7000000000003,1,0,0,2025-05-10
+O00830,A0544,R003,2025-03-13,Closed Won,10570,1.0,2025-04-29,Closed Won,,New Business,Healthcare,SMB,Singapore,Neha Iyer,Mid-Market,10570.0,0,1,0,2025-07-17
+O00831,A0539,R007,2025-05-28,Closed Won,19658,1.0,2025-08-05,Closed Won,,New Business,Healthcare,Mid-Market,India,Ishita Sen,SMB,19658.0,0,1,0,2025-10-18
+O00832,A0654,R004,2025-01-15,Closed Won,7936,1.0,2025-03-28,Closed Won,,Expansion,Education,SMB,United States,Rohan Das,SMB,7936.0,0,1,0,2025-03-30
+O00833,A0120,R007,2025-11-08,Closed Won,22911,1.0,2025-12-31,Closed Won,,New Business,Financial Services,Mid-Market,United States,Ishita Sen,SMB,22911.0,0,1,0,2025-11-26
+O00834,A0325,R002,2025-07-31,Demo,25482,0.4,,Open,,New Business,IT Services,Mid-Market,United Kingdom,Kabir Mehta,SMB,10192.800000000001,1,0,0,2025-12-28
+O00835,A0250,R003,2025-04-26,Demo,93528,0.4,,Open,,New Business,Retail,Enterprise,Singapore,Neha Iyer,Mid-Market,37411.200000000004,1,0,0,2025-06-19
+O00836,A0675,R003,2025-06-25,Closed Won,40001,1.0,2025-09-21,Closed Won,,New Business,Healthcare,Mid-Market,Singapore,Neha Iyer,Mid-Market,40001.0,0,1,0,2025-11-14
+O00837,A0651,R007,2025-08-21,Qualification,72330,0.1,,Open,,New Business,IT Services,Mid-Market,Singapore,Ishita Sen,SMB,7233.0,1,0,0,2025-12-25
+O00838,A0473,R005,2025-11-06,Demo,22971,0.4,,Open,,New Business,Manufacturing,Mid-Market,United Kingdom,Maya Shah,Mid-Market,9188.4,1,0,0,2025-12-31
+O00839,A0191,R006,2025-04-05,Discovery,18687,0.2,,Open,,Expansion,Financial Services,SMB,India,Arjun Nair,Enterprise,3737.4,1,0,0,2025-08-14
+O00840,A0265,R005,2025-09-24,Closed Won,32695,1.0,2025-11-14,Closed Won,,Expansion,Financial Services,Mid-Market,Singapore,Maya Shah,Mid-Market,32695.0,0,1,0,2025-12-31
+O00841,A0556,R007,2025-09-17,Closed Won,11735,1.0,2025-10-21,Closed Won,,New Business,Retail,SMB,United Kingdom,Ishita Sen,SMB,11735.0,0,1,0,2025-12-31
+O00842,A0317,R004,2025-04-24,Closed Won,48773,1.0,2025-06-15,Closed Won,,New Business,Education,Mid-Market,Singapore,Rohan Das,SMB,48773.0,0,1,0,2025-09-20
+O00843,A0620,R001,2025-06-14,Demo,21721,0.4,,Open,,Expansion,Manufacturing,Mid-Market,United Kingdom,Aditi Rao,Enterprise,8688.4,1,0,0,2025-09-30
+O00844,A0325,R006,2025-11-01,Proposal,42760,0.6,,Open,,New Business,IT Services,Mid-Market,United Kingdom,Arjun Nair,Enterprise,25656.0,1,0,0,2025-12-31
+O00845,A0656,R007,2025-03-27,Demo,38800,0.4,,Open,,New Business,Manufacturing,Mid-Market,United Kingdom,Ishita Sen,SMB,15520.0,1,0,0,2025-06-27
+O00846,A0176,R006,2025-10-23,Closed Won,44930,1.0,2025-12-01,Closed Won,,New Business,Manufacturing,Mid-Market,Singapore,Arjun Nair,Enterprise,44930.0,0,1,0,2025-12-31
+O00847,A0273,R007,2025-05-01,Closed Lost,41002,0.0,2025-05-30,Closed Lost,Missing feature,New Business,Manufacturing,Mid-Market,United States,Ishita Sen,SMB,0.0,0,0,1,2025-09-22
+O00848,A0407,R007,2025-01-12,Closed Won,36226,1.0,2025-02-25,Closed Won,,Expansion,Financial Services,SMB,United Kingdom,Ishita Sen,SMB,36226.0,0,1,0,2025-06-10
+O00849,A0521,R005,2025-02-07,Closed Lost,27018,0.0,2025-02-22,Closed Lost,No decision,Expansion,Healthcare,Mid-Market,United Kingdom,Maya Shah,Mid-Market,0.0,0,0,1,2025-04-28
+O00850,A0353,R008,2025-08-28,Proposal,9449,0.6,,Open,,New Business,Education,SMB,Singapore,Dev Malhotra,Mid-Market,5669.4,1,0,0,2025-12-29

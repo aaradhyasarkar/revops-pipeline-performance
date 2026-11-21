@@ -1,0 +1,9 @@
+file,rows,columns,size_kb
+accounts.csv,700,6,41.7
+customers.csv,238,7,10.5
+leads.csv,3000,9,197.1
+opportunities.csv,850,11,66.4
+opportunity_stage_history.csv,3472,4,109.1
+sales_activities.csv,4293,7,292.8
+sales_reps.csv,8,4,0.3
+sales_targets.csv,96,3,2.1

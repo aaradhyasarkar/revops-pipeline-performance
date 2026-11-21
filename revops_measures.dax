@@ -1,0 +1,43 @@
+-- Assumes table name: Opportunities (enriched or imported raw)
+Total Pipeline = CALCULATE(SUM(Opportunities[acv]), Opportunities[outcome] = "Open")
+
+Weighted Pipeline =
+SUMX(
+    FILTER(Opportunities, Opportunities[outcome] = "Open"),
+    Opportunities[acv] * Opportunities[probability]
+)
+
+Closed Won Bookings =
+CALCULATE(SUM(Opportunities[acv]), Opportunities[outcome] = "Closed Won")
+
+Closed Won Deals =
+CALCULATE(DISTINCTCOUNT(Opportunities[opportunity_id]), Opportunities[outcome] = "Closed Won")
+
+Closed Deals =
+CALCULATE(DISTINCTCOUNT(Opportunities[opportunity_id]), Opportunities[outcome] IN {"Closed Won","Closed Lost"})
+
+Win Rate % = DIVIDE([Closed Won Deals], [Closed Deals], 0)
+
+Average Won Deal Size =
+CALCULATE(AVERAGE(Opportunities[acv]), Opportunities[outcome] = "Closed Won")
+
+Open Opportunity Count =
+CALCULATE(DISTINCTCOUNT(Opportunities[opportunity_id]), Opportunities[outcome] = "Open")
+
+Average Sales Cycle (Days) =
+AVERAGEX(
+    FILTER(Opportunities, Opportunities[outcome] = "Closed Won" && NOT ISBLANK(Opportunities[close_date])),
+    DATEDIFF(Opportunities[created_date], Opportunities[close_date], DAY)
+)
+
+Quota Attainment % =
+DIVIDE([Closed Won Bookings], SUM(SalesTargets[monthly_bookings_target]), 0)
+
+Open Pipeline Age (Days) =
+AVERAGEX(
+    FILTER(Opportunities, Opportunities[outcome] = "Open"),
+    DATEDIFF(Opportunities[created_date], TODAY(), DAY)
+)
+
+ARR from Customers = SUM(Customers[arr])
+MRR from Customers = DIVIDE([ARR from Customers], 12, 0)
